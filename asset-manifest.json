@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.45ff1ba1.css",
-    "main.js": "/static/js/main.eacbe2ea.js",
-    "static/media/NotoSansJP-Regular.otf": "/static/media/NotoSansJP-Regular.bf5d4bac33520179a841.otf",
-    "static/media/NotoSansJP-Light.otf": "/static/media/NotoSansJP-Light.1b2ce4fd33d26f3d8121.otf",
-    "static/media/n3-choukai-01.md": "/static/media/n3-choukai-01.c36b33bdb50cb764b9c3.md",
-    "index.html": "/index.html",
-    "main.45ff1ba1.css.map": "/static/css/main.45ff1ba1.css.map",
-    "main.eacbe2ea.js.map": "/static/js/main.eacbe2ea.js.map"
+    "main.css": "/nihongo-nook/static/css/main.fdccca34.css",
+    "main.js": "/nihongo-nook/static/js/main.dfcde450.js",
+    "static/media/NotoSansJP-Regular.otf": "/nihongo-nook/static/media/NotoSansJP-Regular.bf5d4bac33520179a841.otf",
+    "static/media/NotoSansJP-Light.otf": "/nihongo-nook/static/media/NotoSansJP-Light.1b2ce4fd33d26f3d8121.otf",
+    "static/media/n3-choukai-01.md": "/nihongo-nook/static/media/n3-choukai-01.c36b33bdb50cb764b9c3.md",
+    "index.html": "/nihongo-nook/index.html",
+    "main.fdccca34.css.map": "/nihongo-nook/static/css/main.fdccca34.css.map",
+    "main.dfcde450.js.map": "/nihongo-nook/static/js/main.dfcde450.js.map"
   },
   "entrypoints": [
-    "static/css/main.45ff1ba1.css",
-    "static/js/main.eacbe2ea.js"
+    "static/css/main.fdccca34.css",
+    "static/js/main.dfcde450.js"
   ]
 }
