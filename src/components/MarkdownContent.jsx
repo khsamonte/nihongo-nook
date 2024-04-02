@@ -9,7 +9,7 @@ const MarkdownContent = ({ markdownFile }) => {
 		fetch(markdownFile)
 			.then((response) => response.text())
 			.then((text) => setMarkdown(text));
-	}, []);
+	}, [markdownFile]);
 
 	return (
 		<MarkdownContainer>
@@ -21,9 +21,9 @@ const MarkdownContent = ({ markdownFile }) => {
 const MarkdownContainer = styled.div`
 	width: 65%;
 
-  @media screen and (max-width: 768px) {
-    width: 100%;
-  }
+	@media screen and (max-width: 768px) {
+		width: 100%;
+	}
 `;
 
 export default MarkdownContent;
