@@ -2,7 +2,6 @@ import React from "react";
 import styled from "styled-components";
 
 import bunnyGirlSenpaiS01E01Markdown from "../content/anime/bunny-girl-senpai/bunny-girl-senpai-s01e01.md";
-
 import n3Choukai01Markdown from "../content/choukai/jlpt-n3/n3-choukai-01.md";
 
 const Navigator = ({ selectMarkdown }) => {

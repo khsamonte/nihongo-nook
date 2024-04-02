@@ -65,6 +65,10 @@ const SiteContent = styled.div`
     margin: 0 0 1.5em;
   }
 
+  &.character-name {
+    color: orange;
+  }
+
   @media screen and (max-width: 768px) {
     flex-direction: column-reverse;
   }
