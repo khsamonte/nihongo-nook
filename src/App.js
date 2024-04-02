@@ -110,23 +110,23 @@ const SiteContent = styled.div`
 const MainColumn = styled.div`
 	width: 65%;
 
-	p,
+	/* p,
 	ul {
 		font-family: "NotoSansJP-Light";
-		font-size: 14px
+		font-size: 14px;
 		font-weight: 300;
 		margin: 0 0 1.5em;
 		line-height: 1.5;
-    list-style: none;
+		list-style: none;
+	} */
+
+	a {
+		color: rgb(209, 203, 193);
+
+		&:hover {
+			color: skyblue;
+		}
 	}
-
-  a {
-	  color: rgb(209, 203, 193);
-
-    &:hover {
-      color: skyblue;
-    }
-  }
 
 	@media screen and (max-width: 768px) {
 		width: 100%;

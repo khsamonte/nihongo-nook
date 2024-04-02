@@ -64,7 +64,25 @@ const MarkdownContent = ({ markdownFile }) => {
 		}
 	};
 
-	return <>{renderMarkdown()}</>;
+	return <MarkdownContainer>{renderMarkdown()}</MarkdownContainer>;
 };
+
+const MarkdownContainer = styled.div`
+	font-family: "NotoSansJP-Light";
+	font-weight: 300;
+	margin: 0 0 1.5em;
+	line-height: 1.5;
+	list-style: none;
+
+	p,
+	ul {
+		font-family: "NotoSansJP-Light";
+		font-size: 1.25em;
+		font-weight: 300;
+		margin: 0 0 1.5em;
+		line-height: 1.5;
+		list-style: none;
+	}
+`;
 
 export default MarkdownContent;
