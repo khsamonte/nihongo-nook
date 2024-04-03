@@ -11,7 +11,7 @@ const YouTubeTitle = ({ youtubeTranscripts }) => {
 		const episodes = youtubeVideo?.children;
 
 		if (episodes === null || episodes === undefined || episodes?.length === 0) {
-			return <Text>No episodes.</Text>;
+			return <Text>No transcripts.</Text>;
 		} else {
 			return (
 				<NavList>

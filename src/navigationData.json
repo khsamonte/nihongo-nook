@@ -41,12 +41,7 @@
 						{
 							"name": "JLPT N4 Choukai",
 							"url": "/transcripts/youtube/jlpt-n4-choukai",
-							"children": [
-								{
-									"name": "Choukai 1",
-									"url": "/transcripts/youtube/jlpt-n4-choukai/1"
-								}
-							]
+							"children": []
 						},
 						{
 							"name": "JLPT N3 Choukai",
