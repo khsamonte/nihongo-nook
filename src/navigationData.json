@@ -1,0 +1,39 @@
+{
+  "Transcripts": {
+    "url": "transcripts",
+    "children": {
+      "Anime": {
+        "url": "transcripts/anime",
+        "children": {
+          "Bunny Girl Senpai": {
+            "url": "transcripts/anime/bunny-girl-senpai",
+            "children": {
+              "Season 1 - Episode 1": {
+                "url": "transcripts/anime/bunny-girl-senpai/season-1/1"
+              },
+              "Season 1 - Episode 2": {
+                "url": "transcripts/anime/bunny-girl-senpai/season-1/2"
+              }
+            }
+          }
+        }
+      },
+      "Light Novels": {
+        "url": "transcripts/light-novels",
+        "children": {}
+      },
+      "YouTube": {
+        "url": "#",
+        "children": {}
+      }
+    }
+  },
+  "Learning Notes": {
+    "url": "#",
+    "children": {}
+  },
+  "Japanese Journal": {
+    "url": "#",
+    "children": {}
+  }
+}
