@@ -2,59 +2,59 @@
 	"categories": [
 		{
 			"name": "Transcripts",
-			"url": "transcripts",
+			"url": "/transcripts",
 			"children": [
 				{
 					"name": "Anime",
-					"url": "transcripts/anime",
+					"url": "/transcripts/anime",
 					"children": [
 						{
 							"name": "Bunny Girl Senpai",
-							"url": "transcripts/anime/bunny-girl-senpai",
+							"url": "/transcripts/anime/bunny-girl-senpai",
 							"children": [
 								{
 									"name": "Season 1 - Episode 1",
-									"url": "transcripts/anime/bunny-girl-senpai/season-1/1"
+									"url": "/transcripts/anime/bunny-girl-senpai/season-1/1"
 								},
 								{
 									"name": "Season 1 - Episode 2",
-									"url": "transcripts/anime/bunny-girl-senpai/season-1/2"
+									"url": "/transcripts/anime/bunny-girl-senpai/season-1/2"
 								}
 							]
 						},
 						{
 							"name": "White Album 2",
-							"url": "#",
+							"url": "/transcripts/anime/white-album-2",
 							"children": []
 						}
 					]
 				},
 				{
 					"name": "Light Novels",
-					"url": "transcripts/light-novels",
+					"url": "/transcripts/light-novels",
 					"children": []
 				},
 				{
 					"name": "YouTube",
-					"url": "transcripts/youtube",
+					"url": "/transcripts/youtube",
 					"children": [
 						{
 							"name": "JLPT N4 Choukai",
-							"url": "transcripts/youtube/jlpt-n4-choukai",
+							"url": "/transcripts/youtube/jlpt-n4-choukai",
 							"children": [
 								{
 									"name": "Choukai 1",
-									"url": "transcripts/youtube/jlpt-n4-choukai/1"
+									"url": "/transcripts/youtube/jlpt-n4-choukai/1"
 								}
 							]
 						},
 						{
 							"name": "JLPT N3 Choukai",
-							"url": "transcripts/youtube/jlpt-n3-choukai",
+							"url": "/transcripts/youtube/jlpt-n3-choukai",
 							"children": [
 								{
 									"name": "Choukai 1",
-									"url": "transcripts/youtube/jlpt-n3-choukai/1"
+									"url": "/transcripts/youtube/jlpt-n3-choukai/1"
 								}
 							]
 						}
@@ -64,12 +64,12 @@
 		},
 		{
 			"name": "Learning Notes",
-			"url": "#",
+			"url": "/learning-notes",
 			"children": []
 		},
 		{
 			"name": "Japanese Journal",
-			"url": "#",
+			"url": "/japanese-journal",
 			"children": []
 		}
 	]

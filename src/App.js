@@ -6,12 +6,24 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Transcripts from "./components/Transcripts/index";
 import Anime from "./components/Transcripts/Anime";
 import AnimeTitle from "./components/Transcripts/AnimeTitle";
-import Episode from "./components/Transcripts/Episode";
+import AnimeEpisode from "./components/Transcripts/AnimeEpisode";
+
 // import LightNovels from "./components/Transcripts/LightNovels";
+
 import YouTube from "./components/Transcripts/YouTube";
 import YouTubeTitle from "./components/Transcripts/YouTubeTitle";
+import YouTubeTranscript from "./components/Transcripts/YouTubeTranscript";
 
 import Navigator from "./components/Navigator";
+
+import navigationData from "./navigationData.json";
+
+const transcripts = navigationData?.categories[0].children;
+const learningNotes = navigationData?.categories[1].children;
+
+const animeTitles = transcripts[0].children;
+const lightNovels = transcripts[0].children;
+const youtubeTranscripts = transcripts[2].children;
 
 function App() {
 	return (
@@ -19,22 +31,35 @@ function App() {
 			<SiteContent>
 				<MainColumn>
 					<Routes>
-						<Route path="/transcripts" element={<Transcripts />} />
-						<Route path="/transcripts/anime" element={<Anime />} />
+						<Route
+							path="/transcripts"
+							element={<Transcripts transcripts={transcripts} />}
+						/>
+						<Route
+							path="/transcripts/anime"
+							element={<Anime animeTitles={animeTitles} />}
+						/>
 						<Route
 							path="/transcripts/anime/:animeTitle"
-							element={<AnimeTitle />}
+							element={<AnimeTitle animeTitles={animeTitles} />}
 						/>
 						<Route
 							path="/transcripts/anime/:animeTitle/:season/:episodeNumber"
-							element={<Episode />}
+							element={<AnimeEpisode />}
 						/>
 
-						<Route path="/transcripts/youtube" element={<YouTube />} />
+						<Route
+							path="/transcripts/youtube"
+							element={<YouTube youtubeTranscripts={youtubeTranscripts} />}
+						/>
 
 						<Route
 							path="/transcripts/youtube/:youtubeTitle"
-							element={<YouTubeTitle />}
+							element={<YouTubeTitle youtubeTranscripts={youtubeTranscripts} />}
+						/>
+						<Route
+							path="/transcripts/youtube/:youtubeTitle/:episodeNumber"
+							element={<YouTubeTranscript />}
 						/>
 						{/* Include routes for other categories similarly */}
 
@@ -58,50 +83,6 @@ const SiteContent = styled.div`
 	max-width: 1366px;
 	padding: 5.5em 3em 0;
 
-	h1 {
-		font-family: "NotoSansJP-Light";
-		font-size: 1.625em;
-		font-weight: 300;
-		padding-bottom: 1em;
-	}
-
-	h2 {
-		font-family: "NotoSansJP-Light";
-		font-size: 1.625em;
-		font-weight: 300;
-		margin: 0 0 0.75em;
-	}
-
-	h3 {
-		font-family: "NotoSansJP-Light";
-		font-size: 1.375em;
-		font-weight: 300;
-		margin: 0 0 0.75em;
-	}
-
-	p {
-		font-family: "NotoSansJP-Light";
-		font-size: 1.25em;
-		font-weight: 300;
-		margin: 0 0 1.5em;
-		line-height: 1.5;
-		list-style: none;
-	}
-
-	ul {
-		list-style: none;
-	}
-
-	hr {
-		border: none;
-		border-top: 1px solid rgb(63, 65, 65);
-		margin: 0 0 1.5em;
-	}
-
-	&.character-name {
-		color: orange;
-	}
-
 	@media screen and (max-width: 768px) {
 		flex-direction: column-reverse;
 	}
@@ -114,12 +95,11 @@ const SiteContent = styled.div`
 const MainColumn = styled.div`
 	width: 65%;
 
-	a {
-		color: rgb(209, 203, 193);
-
-		&:hover {
-			color: skyblue;
-		}
+	h1 {
+		font-family: "NotoSansJP-Light";
+		font-size: 1.625em;
+		font-weight: 300;
+		padding-bottom: 1em;
 	}
 
 	@media screen and (max-width: 768px) {

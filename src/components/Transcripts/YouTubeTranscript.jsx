@@ -5,20 +5,19 @@ import MarkdownContent from "../MarkdownContent";
 
 import { toTitleCase } from "../../utils/stringUtils";
 
-const Episode = () => {
+const YouTubeTranscript = () => {
 	const basePath = process.env.PUBLIC_URL || "";
 
-	const { animeTitle, season, episodeNumber } = useParams();
-	const path = `${basePath}/markdown/anime/${animeTitle}/${season}/${episodeNumber}.md`;
+	const { youtubeTitle, episodeNumber } = useParams();
+	const path = `${basePath}/markdown/youtube/${youtubeTitle}/${episodeNumber}.md`;
 	return (
 		<>
 			<h1>
-				{toTitleCase(animeTitle)} - {toTitleCase(season)} - Episode{" "}
-				{episodeNumber}
+				{toTitleCase(youtubeTitle)} - Episode {episodeNumber}
 			</h1>
 			<MarkdownContent markdownFile={path} />
 		</>
 	);
 };
 
-export default Episode;
+export default YouTubeTranscript;

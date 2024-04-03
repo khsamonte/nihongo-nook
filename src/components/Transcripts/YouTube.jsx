@@ -1,24 +1,42 @@
 import React from "react";
-import { Link } from "react-router-dom";
-import { toKebabCase } from "../../utils/stringUtils";
+import styled from "styled-components";
+import { NavLink } from "react-router-dom";
 
-const titles = ["JLPT N3 Choukai"];
-
-const YouTube = () => {
+const YouTube = ({ youtubeTranscripts }) => {
 	return (
 		<div>
-			<h2>YouTube Transcripts</h2>
-			<ul>
-				{titles.map((title) => (
-					<li key={title}>
-						<Link to={`/transcripts/youtube/${toKebabCase(title)}`}>
-							{title}
-						</Link>
-					</li>
+			<h1>YouTube Transcripts</h1>
+			<NavList>
+				{youtubeTranscripts.map((title) => (
+					<NavItem key={title?.name}>
+						<Link to={title?.url}>{title?.name}</Link>
+					</NavItem>
 				))}
-			</ul>
+			</NavList>
 		</div>
 	);
 };
+
+const NavList = styled.ul`
+	list-style: none;
+	margin: 0;
+`;
+
+const NavItem = styled.li`
+	line-height: 1;
+	padding: 0.5em 0;
+	width: 100%;
+`;
+
+const Link = styled(NavLink)`
+	color: skyblue;
+	font-family: Helvetica;
+	font-size: 14px;
+	text-decoration: none;
+
+	&:hover {
+		text-decoration: underline;
+	}
+`;
 
 export default YouTube;
