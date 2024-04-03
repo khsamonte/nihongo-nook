@@ -1,5 +1,4 @@
 // Episode.jsx
-import react from "react";
 import { useParams } from "react-router-dom";
 
 import MarkdownContent from "../MarkdownContent";
@@ -7,8 +6,10 @@ import MarkdownContent from "../MarkdownContent";
 import { toTitleCase } from "../../utils/stringUtils";
 
 const Episode = () => {
+	const basePath = process.env.PUBLIC_URL || "";
+
 	const { animeTitle, season, episodeNumber } = useParams();
-	const path = `/nihongo-nook/markdown/anime/${animeTitle}/${season}/${episodeNumber}.md`;
+	const path = `${basePath}/markdown/anime/${animeTitle}/${season}/${episodeNumber}.md`;
 	return (
 		<>
 			<h1>

@@ -1,26 +1,19 @@
-import React, { useState } from "react";
+import React from "react";
 import styled from "styled-components";
 
-import { BrowserRouter as Router, Routes, Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
 import Transcripts from "./components/Transcripts/index";
 import Anime from "./components/Transcripts/Anime";
 import AnimeTitle from "./components/Transcripts/AnimeTitle";
 import Episode from "./components/Transcripts/Episode";
 // import LightNovels from "./components/Transcripts/LightNovels";
-// import YouTube from "./components/Transcripts/YouTube";
+import YouTube from "./components/Transcripts/YouTube";
+import YouTubeTitle from "./components/Transcripts/YouTubeTitle";
 
-import MarkdownContent from "./components/MarkdownContent";
 import Navigator from "./components/Navigator";
 
 function App() {
-	const [currentMarkdown, setCurrentMarkdown] = useState();
-
-	// Function to change the Markdown content
-	const selectMarkdown = (markdown) => {
-		setCurrentMarkdown(markdown);
-	};
-
 	return (
 		<Router basename={process.env.PUBLIC_URL}>
 			<SiteContent>
@@ -36,6 +29,13 @@ function App() {
 							path="/transcripts/anime/:animeTitle/:season/:episodeNumber"
 							element={<Episode />}
 						/>
+
+						<Route path="/transcripts/youtube" element={<YouTube />} />
+
+						<Route
+							path="/transcripts/youtube/:youtubeTitle"
+							element={<YouTubeTitle />}
+						/>
 						{/* Include routes for other categories similarly */}
 
 						{/* <Route path="/learning-notes" element={<LearningNotes />}></Route>
@@ -44,7 +44,7 @@ function App() {
 					</Routes>
 				</MainColumn>
 				{/* <MarkdownContent markdownFile={currentMarkdown} /> */}
-				<Navigator selectMarkdown={selectMarkdown} />
+				<Navigator />
 			</SiteContent>
 		</Router>
 	);
@@ -88,6 +88,10 @@ const SiteContent = styled.div`
 		list-style: none;
 	}
 
+	ul {
+		list-style: none;
+	}
+
 	hr {
 		border: none;
 		border-top: 1px solid rgb(63, 65, 65);
@@ -109,16 +113,6 @@ const SiteContent = styled.div`
 
 const MainColumn = styled.div`
 	width: 65%;
-
-	/* p,
-	ul {
-		font-family: "NotoSansJP-Light";
-		font-size: 14px;
-		font-weight: 300;
-		margin: 0 0 1.5em;
-		line-height: 1.5;
-		list-style: none;
-	} */
 
 	a {
 		color: rgb(209, 203, 193);

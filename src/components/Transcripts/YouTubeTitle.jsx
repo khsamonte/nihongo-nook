@@ -1,9 +1,9 @@
 import { useParams, Link } from "react-router-dom";
 import { toTitleCase } from "../../utils/stringUtils";
 
-const AnimeTitle = () => {
-	const { animeTitle } = useParams();
-	const title = toTitleCase(animeTitle);
+const YouTubeTitle = () => {
+	const { youtubeTitle } = useParams();
+	const title = toTitleCase(youtubeTitle);
 	const seasons = { "Season 1": ["Episode 1", "Episode 2"] };
 
 	return (
@@ -16,7 +16,7 @@ const AnimeTitle = () => {
 						{episodes.map((episode, index) => (
 							<li key={episode}>
 								<Link
-									to={`/transcripts/anime/${animeTitle}/${season
+									to={`/transcripts/anime/${youtubeTitle}/${season
 										.toLowerCase()
 										.replace(/\s+/g, "-")}/${index + 1}`}
 								>
@@ -31,4 +31,4 @@ const AnimeTitle = () => {
 	);
 };
 
-export default AnimeTitle;
+export default YouTubeTitle;

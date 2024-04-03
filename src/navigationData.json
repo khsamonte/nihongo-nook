@@ -1,39 +1,76 @@
 {
-  "Transcripts": {
-    "url": "transcripts",
-    "children": {
-      "Anime": {
-        "url": "transcripts/anime",
-        "children": {
-          "Bunny Girl Senpai": {
-            "url": "transcripts/anime/bunny-girl-senpai",
-            "children": {
-              "Season 1 - Episode 1": {
-                "url": "transcripts/anime/bunny-girl-senpai/season-1/1"
-              },
-              "Season 1 - Episode 2": {
-                "url": "transcripts/anime/bunny-girl-senpai/season-1/2"
-              }
-            }
-          }
-        }
-      },
-      "Light Novels": {
-        "url": "transcripts/light-novels",
-        "children": {}
-      },
-      "YouTube": {
-        "url": "#",
-        "children": {}
-      }
-    }
-  },
-  "Learning Notes": {
-    "url": "#",
-    "children": {}
-  },
-  "Japanese Journal": {
-    "url": "#",
-    "children": {}
-  }
+	"categories": [
+		{
+			"name": "Transcripts",
+			"url": "transcripts",
+			"children": [
+				{
+					"name": "Anime",
+					"url": "transcripts/anime",
+					"children": [
+						{
+							"name": "Bunny Girl Senpai",
+							"url": "transcripts/anime/bunny-girl-senpai",
+							"children": [
+								{
+									"name": "Season 1 - Episode 1",
+									"url": "transcripts/anime/bunny-girl-senpai/season-1/1"
+								},
+								{
+									"name": "Season 1 - Episode 2",
+									"url": "transcripts/anime/bunny-girl-senpai/season-1/2"
+								}
+							]
+						},
+						{
+							"name": "White Album 2",
+							"url": "#",
+							"children": []
+						}
+					]
+				},
+				{
+					"name": "Light Novels",
+					"url": "transcripts/light-novels",
+					"children": []
+				},
+				{
+					"name": "YouTube",
+					"url": "transcripts/youtube",
+					"children": [
+						{
+							"name": "JLPT N4 Choukai",
+							"url": "transcripts/youtube/jlpt-n4-choukai",
+							"children": [
+								{
+									"name": "Choukai 1",
+									"url": "transcripts/youtube/jlpt-n4-choukai/1"
+								}
+							]
+						},
+						{
+							"name": "JLPT N3 Choukai",
+							"url": "transcripts/youtube/jlpt-n3-choukai",
+							"children": [
+								{
+									"name": "Choukai 1",
+									"url": "transcripts/youtube/jlpt-n3-choukai/1"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Learning Notes",
+			"url": "#",
+			"children": []
+		},
+		{
+			"name": "Japanese Journal",
+			"url": "#",
+			"children": []
+		}
+	]
 }
