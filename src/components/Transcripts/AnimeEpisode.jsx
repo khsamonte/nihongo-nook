@@ -1,4 +1,3 @@
-// Episode.jsx
 import { useParams } from "react-router-dom";
 
 import MarkdownContent from "../MarkdownContent";

@@ -32,7 +32,18 @@
 				{
 					"name": "Light Novels",
 					"url": "/transcripts/light-novels",
-					"children": []
+					"children": [
+						{
+							"name": "Bunny Girl Senpai",
+							"url": "/transcripts/light-novels/bunny-girl-senpai",
+							"children": [
+								{
+									"name": "Chapter 1",
+									"url": "/transcripts/light-novels/bunny-girl-senpai/1"
+								}
+							]
+						}
+					]
 				},
 				{
 					"name": "YouTube",
