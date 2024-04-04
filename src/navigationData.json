@@ -1,82 +1,108 @@
 {
-	"categories": [
-		{
-			"name": "Transcripts",
-			"url": "/transcripts",
-			"children": [
-				{
-					"name": "Anime",
-					"url": "/transcripts/anime",
-					"children": [
-						{
-							"name": "Bunny Girl Senpai",
-							"url": "/transcripts/anime/bunny-girl-senpai",
-							"children": [
-								{
-									"name": "Season 1 - Episode 1",
-									"url": "/transcripts/anime/bunny-girl-senpai/season-1/1"
-								},
-								{
-									"name": "Season 1 - Episode 2",
-									"url": "/transcripts/anime/bunny-girl-senpai/season-1/2"
-								}
-							]
-						},
-						{
-							"name": "White Album 2",
-							"url": "/transcripts/anime/white-album-2",
-							"children": []
-						}
-					]
-				},
-				{
-					"name": "Light Novels",
-					"url": "/transcripts/light-novels",
-					"children": [
-						{
-							"name": "Bunny Girl Senpai",
-							"url": "/transcripts/light-novels/bunny-girl-senpai",
-							"children": [
-								{
-									"name": "Chapter 1",
-									"url": "/transcripts/light-novels/bunny-girl-senpai/1"
-								}
-							]
-						}
-					]
-				},
-				{
-					"name": "YouTube",
-					"url": "/transcripts/youtube",
-					"children": [
-						{
-							"name": "JLPT N4 Choukai",
-							"url": "/transcripts/youtube/jlpt-n4-choukai",
-							"children": []
-						},
-						{
-							"name": "JLPT N3 Choukai",
-							"url": "/transcripts/youtube/jlpt-n3-choukai",
-							"children": [
-								{
-									"name": "Choukai 1",
-									"url": "/transcripts/youtube/jlpt-n3-choukai/1"
-								}
-							]
-						}
-					]
-				}
-			]
-		},
-		{
-			"name": "Learning Notes",
-			"url": "/learning-notes",
-			"children": []
-		},
-		{
-			"name": "Japanese Journal",
-			"url": "/japanese-journal",
-			"children": []
-		}
-	]
+  "categories": [
+    {
+      "name": "Transcripts",
+      "url": "/transcripts",
+      "children": [
+        {
+          "name": "Anime",
+          "url": "/transcripts/anime",
+          "children": [
+            {
+              "name": "Bunny Girl Senpai",
+              "url": "/transcripts/anime/bunny-girl-senpai",
+              "children": [
+                {
+                  "name": "Season 1 - Episode 1",
+                  "url": "/transcripts/anime/bunny-girl-senpai/1"
+                },
+                {
+                  "name": "Season 1 - Episode 2",
+                  "url": "/transcripts/anime/bunny-girl-senpai/2"
+                }
+              ]
+            },
+            {
+              "name": "White Album 2",
+              "url": "/transcripts/anime/white-album-2"
+            }
+          ]
+        },
+        {
+          "name": "Light Novels",
+          "url": "/transcripts/light-novels",
+          "children": [
+            {
+              "name": "Bunny Girl Senpai",
+              "url": "/transcripts/light-novels/bunny-girl-senpai",
+              "children": [
+                {
+                  "name": "Chapter 1",
+                  "url": "/transcripts/light-novels/bunny-girl-senpai/1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Choukai",
+          "url": "/transcripts/choukai",
+          "children": [
+            {
+              "name": "JLPT N4 Choukai",
+              "url": "/transcripts/choukai/jlpt-n4-choukai",
+              "children": []
+            },
+            {
+              "name": "JLPT N3 Choukai",
+              "url": "/transcripts/choukai/jlpt-n3-choukai",
+              "children": [
+                {
+                  "name": "Choukai 1",
+                  "url": "/transcripts/choukai/jlpt-n3-choukai/1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Dokkai",
+          "url": "/transcripts/dokkai",
+          "children": [
+            {
+              "name": "JLPT N4 Dokkai",
+              "url": "/transcripts/dokkai/jlpt-n4-dokkai",
+              "children": [
+                {
+                  "name": "Dokkai 1",
+                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Structure",
+      "url": "/structure",
+      "children": [
+        {
+          "name": "Cure Dolly",
+          "url": "/structure/cure-dolly",
+          "children": [{ "name": "が", "url": "/structure/cure-dolly/1" }]
+        },
+        {
+          "name": "JLPT N4 Grammar Patterns",
+          "url": "/structure/jlpt-n4-grammar-patterns",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "Japanese Journal",
+      "url": "/japanese-journal",
+      "children": []
+    }
+  ]
 }
