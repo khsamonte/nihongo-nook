@@ -4,11 +4,21 @@ import { useParams, NavLink } from "react-router-dom";
 
 import { toTitleCase } from "../../utils/stringUtils";
 
-const TranscriptCategory = ({ categories }) => {
-  const { category } = useParams();
-  const data = categories?.find((item) => {
-    return item.url === `/transcripts/${category}`;
-  });
+const TranscriptCategory = ({ items }) => {
+  const { group, category } = useParams();
+
+  let data;
+
+  if (group === "transcripts") {
+    data = items?.find((item) => {
+      return item.url === `/transcripts/${category}`;
+    });
+  } else if (group === "structure") {
+    data = items?.find((item) => {
+      return item.url === `/structure/${category}`;
+    });
+  }
+
   const renderList = () => {
     const titles = data?.children;
 

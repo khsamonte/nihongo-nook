@@ -1,19 +1,26 @@
 import React from "react";
-import styled from "styled-components";
-
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 
+// Components
 import MainLayout from "./components/MainLayout";
 
+// Pages
 import HomePage from "./components/HomePage";
+
+// Transcripts
 import Transcripts from "./components/Transcripts/index";
 import TranscriptCategory from "./components/Transcripts/TranscriptCategory";
 import Title from "./components/Transcripts/Title";
 import Transcript from "./components/Transcripts/Transcript";
-import Navigator from "./components/Navigator";
+
+// Navigation
 import navigationData from "./navigationData.json";
 
+const categories = navigationData?.categories;
+
 const transcriptCategories = navigationData?.categories[0].children;
+
+const structureCategories = navigationData?.categories[1].children;
 
 function App() {
   return (
@@ -31,7 +38,7 @@ function App() {
           path="/:group/"
           element={
             <MainLayout>
-              <Transcripts transcripts={transcriptCategories} />
+              <Transcripts items={categories} />
             </MainLayout>
           }
         />
@@ -39,7 +46,7 @@ function App() {
           path="/:group/:category"
           element={
             <MainLayout>
-              <TranscriptCategory categories={transcriptCategories} />
+              <TranscriptCategory items={transcriptCategories} />
             </MainLayout>
           }
         />
