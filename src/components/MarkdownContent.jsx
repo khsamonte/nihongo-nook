@@ -103,15 +103,19 @@ const MarkdownContainer = styled.div`
 	/* Basic Table Styling */
 	table {
 		border-collapse: collapse;
-		border-top: 1px solid rgb(68, 70, 70);
+		border-top: 1px solid rgb(239, 132, 75);
+		font-family: "NotoSansJP-Light";
 		font-size: 1.25em;
+		font-weight: 300;
 		margin: 0 0 1.5em;
 		width: 100%;
 	}
 
 	pre {
-		border: 1px solid rgb(68, 70, 70);
+		border: 1px solid rgb(239, 132, 75);
+		font-family: "NotoSansJP-Light";
 		font-size: 1.25em;
+		font-weight: 300;
 		margin: 0 0 1.5em;
 		padding: 8px;
 
@@ -122,17 +126,22 @@ const MarkdownContainer = styled.div`
 		word-wrap: break-word; /* Internet Explorer 5.5+ */
 	}
 
+	code {
+		font-family: "NotoSansJP-Light";
+		font-weight: 300;
+	}
+
 	th,
 	td {
 		padding: 8px;
 		text-align: left;
-		border-bottom: 1px solid rgb(68, 70, 70);
-		border-right: 1px solid rgb(68, 70, 70);
+		border-bottom: 1px solid rgb(239, 132, 75);
+		border-right: 1px solid rgb(239, 132, 75);
 	}
 
 	th:first-child,
 	td:first-child {
-		border-left: 1px solid rgb(68, 70, 70);
+		border-left: 1px solid rgb(239, 132, 75);
 	}
 
 	/* Style for the first column */
