@@ -13,7 +13,7 @@ const Transcript = () => {
 			<h1>
 				{toTitleCase(title)} - {toTitleCase(transcript)}
 			</h1>
-			<MarkdownContent markdownFile={path} />
+			<MarkdownContent markdownFile={path} dataToProcess={title} />
 		</>
 	);
 };

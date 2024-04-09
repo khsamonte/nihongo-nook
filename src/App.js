@@ -18,57 +18,53 @@ import navigationData from "./navigationData.json";
 
 const categories = navigationData?.categories;
 
-const transcriptCategories = navigationData?.categories[0].children;
-
-const structureCategories = navigationData?.categories[1].children;
-
 function App() {
-  return (
-    <Router basename={process.env.PUBLIC_URL}>
-      <Routes>
-        <Route
-          path="/"
-          element={
-            <MainLayout>
-              <HomePage categories={navigationData?.categories} />
-            </MainLayout>
-          }
-        />
-        <Route
-          path="/:group/"
-          element={
-            <MainLayout>
-              <Transcripts items={categories} />
-            </MainLayout>
-          }
-        />
-        <Route
-          path="/:group/:category"
-          element={
-            <MainLayout>
-              <TranscriptCategory items={transcriptCategories} />
-            </MainLayout>
-          }
-        />
-        <Route
-          path="/:group/:category/:title"
-          element={
-            <MainLayout>
-              <Title categories={transcriptCategories} />
-            </MainLayout>
-          }
-        />
-        <Route
-          path="/:group/:category/:title/:transcript"
-          element={
-            <MainLayout>
-              <Transcript />
-            </MainLayout>
-          }
-        />
-      </Routes>
-    </Router>
-  );
+	return (
+		<Router basename={process.env.PUBLIC_URL}>
+			<Routes>
+				<Route
+					path="/"
+					element={
+						<MainLayout>
+							<HomePage categories={categories} />
+						</MainLayout>
+					}
+				/>
+				<Route
+					path="/:group/"
+					element={
+						<MainLayout>
+							<Transcripts items={categories} />
+						</MainLayout>
+					}
+				/>
+				<Route
+					path="/:group/:category"
+					element={
+						<MainLayout>
+							<TranscriptCategory items={categories} />
+						</MainLayout>
+					}
+				/>
+				<Route
+					path="/:group/:category/:title"
+					element={
+						<MainLayout>
+							<Title items={categories} />
+						</MainLayout>
+					}
+				/>
+				<Route
+					path="/:group/:category/:title/:transcript"
+					element={
+						<MainLayout>
+							<Transcript />
+						</MainLayout>
+					}
+				/>
+			</Routes>
+		</Router>
+	);
 }
 
 export default App;

@@ -1,36 +1,52 @@
 import { useParams, NavLink } from "react-router-dom";
 import styled from "styled-components";
 
-const Title = ({ categories }) => {
-	const { category, title } = useParams();
-	const titles = categories?.find((item) => {
-		return item.url === `/transcripts/${category}`;
-	});
+import MarkdownContent from "../MarkdownContent";
 
-	const transcripts = titles?.children?.find((item) => {
-		return item.url === `/transcripts/${category}/${title}`;
-	});
+const Title = ({ items }) => {
+	const { group, category, title } = useParams();
+
+	const selectedGroup = items?.find((item) => item?.url.includes(group));
+
+	const selectedCategory = selectedGroup?.children?.find((item) =>
+		item?.url.includes(category)
+	);
+
+	const selectedTitle = selectedCategory?.children?.find((item) =>
+		item?.url?.includes(title)
+	);
 
 	const renderList = () => {
-		const data = transcripts?.children;
-		if (data === null || data === undefined || data?.length === 0) {
-			return <Text>No transcripts.</Text>;
-		} else {
+		if (group === "transcripts") {
+			const data = selectedTitle?.children;
+			if (data === null || data === undefined || data?.length === 0) {
+				return <Text>No transcripts.</Text>;
+			} else if (group === "transcripts") {
+				return (
+					<NavList>
+						{data?.map((transcript) => (
+							<NavItem key={transcript?.name}>
+								<Link to={transcript?.url}>{transcript?.name}</Link>
+							</NavItem>
+						))}
+					</NavList>
+				);
+			}
+		} else if (group === "structure") {
+			const basePath = process.env.PUBLIC_URL || "";
+			const path = `${basePath}/markdown/${category}/${title}.md`;
+
 			return (
-				<NavList>
-					{data?.map((transcript) => (
-						<NavItem key={transcript?.name}>
-							<Link to={transcript?.url}>{transcript?.name}</Link>
-						</NavItem>
-					))}
-				</NavList>
+				<StructureContainer>
+					<MarkdownContent markdownFile={path} />
+				</StructureContainer>
 			);
 		}
 	};
 
 	return (
 		<div>
-			<h1>{transcripts?.name}</h1>
+			<h1>{selectedTitle?.name}</h1>
 			{renderList()}
 		</div>
 	);
@@ -63,6 +79,21 @@ const Text = styled.div`
 	font-size: 14px;
 	padding: 0.5em 0;
 	text-decoration: none;
+`;
+
+const StructureContainer = styled.div`
+	h3 {
+		color: rgb(239, 132, 75);
+	}
+
+	p,
+	ul {
+		font-size: 1em;
+	}
+
+	pre {
+		font-size: 1em;
+	}
 `;
 
 export default Title;
