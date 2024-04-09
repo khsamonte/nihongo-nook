@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nihongo-nook/static/css/main.a1bb39f2.css",
-    "main.js": "/nihongo-nook/static/js/main.211dcec4.js",
+    "main.css": "/nihongo-nook/static/css/main.c1aae2a5.css",
+    "main.js": "/nihongo-nook/static/js/main.9a8c96a5.js",
     "static/media/NotoSansJP-Regular.otf": "/nihongo-nook/static/media/NotoSansJP-Regular.bf5d4bac33520179a841.otf",
     "static/media/NotoSansJP-Light.otf": "/nihongo-nook/static/media/NotoSansJP-Light.1b2ce4fd33d26f3d8121.otf",
     "index.html": "/nihongo-nook/index.html",
-    "main.a1bb39f2.css.map": "/nihongo-nook/static/css/main.a1bb39f2.css.map",
-    "main.211dcec4.js.map": "/nihongo-nook/static/js/main.211dcec4.js.map"
+    "main.c1aae2a5.css.map": "/nihongo-nook/static/css/main.c1aae2a5.css.map",
+    "main.9a8c96a5.js.map": "/nihongo-nook/static/js/main.9a8c96a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.a1bb39f2.css",
-    "static/js/main.211dcec4.js"
+    "static/css/main.c1aae2a5.css",
+    "static/js/main.9a8c96a5.js"
   ]
 }
