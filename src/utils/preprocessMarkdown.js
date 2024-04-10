@@ -1,4 +1,4 @@
-const dictionary = {
+const properNouns = {
 	"bunny-girl-senpai": {
 		names: [
 			"咲太",
@@ -19,6 +19,10 @@ const dictionary = {
 		],
 		places: ["峰ヶ原"],
 	},
+	"speak-japanese-naturally": {
+		names: ["地蔵"],
+		places: ["武田"],
+	},
 };
 
 export const preprocessMarkdown = (markdown, dataToProcess) => {
@@ -28,8 +32,8 @@ export const preprocessMarkdown = (markdown, dataToProcess) => {
 		return markdown;
 	}
 
-	const namesToHighlight = dictionary[dataToProcess]?.names;
-	const placesToHighlight = dictionary[dataToProcess]?.places;
+	const namesToHighlight = properNouns[dataToProcess]?.names;
+	const placesToHighlight = properNouns[dataToProcess]?.places;
 
 	namesToHighlight?.forEach((name) => {
 		processedMarkdown = processedMarkdown.replace(

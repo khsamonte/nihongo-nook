@@ -42,6 +42,10 @@ const MainColumn = styled.div`
 		padding-bottom: 1em;
 	}
 
+	blockquote {
+		padding: 0 2em;
+	}
+
 	@media screen and (max-width: 768px) {
 		width: 100%;
 	}

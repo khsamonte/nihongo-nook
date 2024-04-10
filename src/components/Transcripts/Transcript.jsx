@@ -8,6 +8,7 @@ const Transcript = () => {
 	const basePath = process.env.PUBLIC_URL || "";
 	const { category, title, transcript } = useParams();
 	const path = `${basePath}/markdown/${category}/${title}/${transcript}.md`;
+	console.log(title);
 	return (
 		<>
 			<h1>

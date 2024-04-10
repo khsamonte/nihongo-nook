@@ -73,12 +73,12 @@
 					"url": "/transcripts/youtube",
 					"children": [
 						{
-							"name": "2023",
-							"url": "/transcripts/youtube/2023",
+							"name": "Speak Japanese Naturally",
+							"url": "/transcripts/youtube/speak-japanese-naturally",
 							"children": [
 								{
 									"name": "Exploring Japanese Neighborhood",
-									"url": "/transcripts/youtube/2023/exploring-japanese-neighborhood"
+									"url": "/transcripts/youtube/speak-japanese-naturally/exploring-japanese-neighborhood"
 								}
 							]
 						}
@@ -144,6 +144,14 @@
 							"url": "/structure/cure-dolly/3-the-wa-particle"
 						},
 						{
+							"name": "11. Compound Sentences, くれる, あげる, and more uses of the て-form",
+							"url": "/structure/cure-dolly/11-compound-sentences"
+						},
+						{
+							"name": "16. てみる, や particle, から particle, exclusive “and”",
+							"url": "/structure/cure-dolly/16-te-miru-ya-kara"
+						},
+						{
 							"name": "26. Similes: ようだ・のように・のような・みたい",
 							"url": "/structure/cure-dolly/26-similes"
 						},
@@ -154,6 +162,10 @@
 						{
 							"name": "28. ように",
 							"url": "/structure/cure-dolly/28-youni"
+						},
+						{
+							"name": "Best Comments of Cure Dolly",
+							"url": "/structure/cure-dolly/best-comments"
 						}
 					]
 				},

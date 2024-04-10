@@ -157,7 +157,7 @@ const NameSpan = styled.span`
 `;
 
 const LocationSpan = styled.span`
-	color: blueviolet;
+	color: violet;
 `;
 
 export default MarkdownContent;

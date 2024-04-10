@@ -82,7 +82,8 @@ const Text = styled.div`
 `;
 
 const StructureContainer = styled.div`
-	h3 {
+	h3,
+	a {
 		color: rgb(239, 132, 75);
 	}
 
