@@ -81,6 +81,16 @@
 									"url": "/transcripts/youtube/speak-japanese-naturally/exploring-japanese-neighborhood"
 								}
 							]
+						},
+						{
+							"name": "Akane's Japanese Class",
+							"url": "/transcripts/youtube/akane-japanese-class",
+							"children": [
+								{
+									"name": "Japanese used when using transportation/Haneda Airport → Hamamatsucho",
+									"url": "/transcripts/youtube/akane-japanese-class/transportation-hameda-hamamatsucho"
+								}
+							]
 						}
 					]
 				},

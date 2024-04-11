@@ -20,8 +20,12 @@ const properNouns = {
 		places: ["峰ヶ原"],
 	},
 	"speak-japanese-naturally": {
-		names: ["地蔵"],
-		places: ["武田"],
+		names: ["地蔵", "信玄", "アジサイ"],
+		places: ["武田", "甲府"],
+	},
+	"akane-japanese-class": {
+		names: ["あかね"],
+		places: ["浜松町", "羽田", "東京", "山手線", "京浜東北線", "浅草"],
 	},
 };
 
