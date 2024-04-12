@@ -13,11 +13,13 @@ So, if we want to say, "There is a pen / A pen exists", we say "ペンがある"
 But if we want to say there isn't a pen, we say, "ペンがない".
 
 ```
-ペンが・ある。
+ペンがある。
+
 Ａ：ペンが：pen
 Ｂ：ある：exists
 
-ペンが・ない。
+ペンがない。
+
 Ａ：ペンが：pen
 Ｂ：ない：not-exists
 ```
@@ -51,7 +53,7 @@ If we want to say "This is a pen", as we know, we say,
 "As for this, pen = / As for this, it's a pen."
 
 ```
-これは・(zeroが)・ペンだ。
+これは(zeroが)ペンだ。
 
 ・これは：as for this
 ・(zeroが)：it
@@ -63,7 +65,7 @@ But if we want to say, "This is not a pen", we say,
 "これは(zeroが)ペンではない".
 
 ```
-これは・(zeroが)・ペンでは・ない。
+これは(zeroが)ペンではない。
 
 ・これは：as for this
 ・(zeroが)：it
@@ -138,79 +140,143 @@ So,
 
 and so forth.
 
-There's only one exception in this system – and when I say that I mean the whole system,
-all the stems – there's only this one exception, which is that 
-when a word ends in the う-kana the stem doesn't change to "-あ", it changes to "わ".
+There's only one exception in this system – and when I say that, I mean the whole system, all the stems – there's only this one exception, which is that 
+when a word ends in the う-kana, the stem doesn't change to "-あ", it changes to "わ".
+
 So the negative of "かう" is not "かあない", it's "かわない".
-And it's only in the あ-stem that we have this exception, so that's the only exception in
-the whole system, and you can see why it exists:
-"かあない" is not as easy to say as "かわない", is it?
-All the others are perfectly regular.
-"きく" (hear) becomes "きかない" (not-hear); "はなす" (speak) becomes "はなさない" (not-speak); "もつ" (hold) becomes "もたない" (not hold), and so forth.
-And as we already know, with ichidan verbs, they only ever drop that "-る" and put on
-whatever we want to put on, so "たべる" (eat) becomes "たべない" (not-eat).
-And that's it.
-That's how we turn any verb negative.
-It's very, very simple.
-Negative forms of adjectives
+
+And it's only in the あ-stem that we have this exception, so that's the only exception in the whole system, and you can see why it exists: "かあない" is not as easy to say as "かわない", is it? All the others are perfectly regular.
+
++ "聞く" (hear) becomes "聞かない" (not-hear);
++ "話す" (speak) becomes "話さない" (not-speak);
++ "持つ" (hold) becomes "持たない" (not hold),
+
+and so forth.
+
+And as we already know, with ichidan verbs, they only ever drop that "-る" and put on whatever we want to put on, so "食べる" (eat) becomes "食べない" (not-eat).
+
+And that's it. That's how we turn any verb negative. It's very, very simple.
+
+### Negative forms of adjectives
+
 Now, what about adjectives? How do we make adjectives negative?
-Well, when we make a transformation to an adjective,
-what we always do is we turn the "-い" at the end of it into "-く":
-"あかい" (is-red) becomes "あかく"; "かわいい" (is-cute) becomes
-"かわいく"; こわい (is-scary) becomes "こわく".
 
-And this is the way we make the て-form of adjectives: "あかく" becomes "あかくて".
+Well, when we make a transformation to an adjective, what we always do is we turn the "-い" at the end of it into "-く":
 
-And it's also the way we make the negative: "あかい" becomes "あかくない" (not-red).
++ "赤い" (is-red) becomes "赤く";
++ "可愛い" (is-cute) becomes "可愛く";
++ 怖い (is-scary) becomes "怖く".
 
-Now interestingly, this -く is the opposite of what happens in the て-form, isn't it?
-If a word ends in -く, in the て-form we turn that -く into -い.
-But in an adjective we turn the -い into -く.
-Note: Dolly makes a little typo here, in the video, she writes かわいく as あわいく. I fixed it.
-Adjectives in the past tense
+And this is the way we make the て-form of adjectives: "赤く" becomes "赤くて".
+
+And it's also the way we make the negative: "赤い" becomes "赤くない" (not-red).
+
+Now interestingly, this -く is the opposite of what happens in the て-form, isn't it? If a word ends in -く, in the て-form we turn that -く into -い.
+
+But in an adjective, we turn the -い into -く.
+
+### Adjectives in the past tense
+
 If we want to put an adjective into the past tense, we take off the -い and use -かった.
-So "こわい" (is-scary) becomes "こわかった" (was-scary).
-And because "ない" is also an い-adjective, 
-when we put that into the past we also say "なかった".
-So, if we want to say "Sakura runs", we say "さくらがはしる"; 
-if we want to say "Sakura doesn't run", we say "さくらがはしらない"; 
-if we want to say "Sakura ran (in the past)", we say "さくらがはしった" – because it's a godan verb; 
-Note: Notice the っ before た instead of just た, as given in Lesson 5 Godan Verb Group 1. 
-and if we want to say "Sakura didn't run (in the past)", we say "さくらがはしらなかった".
-"はしらない", and then we put "ない" into the past: "はしらなかった".
+
+So "怖い" (is-scary) becomes "怖かった" (was-scary).
+
+And because "ない" is also an い-adjective, when we put that into the past we also say "なかった".
+
++ ・So, if we want to say "Sakura runs", we say "さくらが走る"; 
++ ・if we want to say "Sakura doesn't run", we say "さくらが走らない";
++ ・if we want to say "Sakura ran (in the past)", we say "さくらが走った" – because it's a godan verb (Note: Notice the っ before た instead of just た, as given in Lesson 5 Godan Verb Group 1.)
++ ・and if we want to say "Sakura didn't run (in the past)", we say "さくらが走らなかった".
+
+"走らない", and then we put "ない" into the past: "はしらなかった".
+
+```
+Non-past Positive
+さくらが走る。
+
+・さくらが：Sakura
+・走る：runs/will-run
+
+Non-past Negative
+さくらが走らない。
+
+・さくらが：Sakura
+・走ら：runs-
+・ない：not
+
+Past Positive
+さくらが走った。
+
+・さくらが：Sakura
+・走った：ran
+
+Past Negative
+さくらが走らなかった。
+
+・さくらが：Sakura
+・走ら：runs-
+・なかった：did-not
+```
 
 Now, as we all know. 
-"さくらがはしる" is rather unnatural Japanese, just as it's rather unnatural English.
-We say "Sakura is running" in English, and in Japanese we say "さくらがはしっている".
-So if we want to put all that in the past, what do we do?
-Well, all we have to do is put that "いる" into the past.
-So we say "さくらがはしっていた" – "Sakura was running".
 
-And if we want to say "Sakura wasn't running", we say "さくらがはしっていなかった".
-That "いる" is a simple ichidan verb, so we just drop the -る and put on た (positive past)
-or ない (negative) and, in the past, なかった. (since ない in the past becomes なかった)
+"さくらが走る" is rather unnatural Japanese, just as it's rather unnatural English. We say "Sakura is running" in English, and in Japanese we say "さくらが走っている". 
 
-I always say that Japanese is like Lego. 
-Once you know the basic building blocks you can build anything.
-And there are almost no exceptions in Japanese.
-Exceptions
-In the whole of what we've been talking about today there are really just two exceptions.
-And I'm going to introduce those so that you know everything you need to know.
-The only real exception to every verb being made negative by adding "ない" is the verb
-"ます", which is a helper verb that makes words formal.(polite).
-We add it to the い-stem of a verb, and we will look at the い-stem later, but I think
-you can already guess what it is.
-So, "はなす" becomes "はなします", "きく" becomes "ききます" and so on.
-When you put "ます" into the negative, it does not become "まさない", as you would expect
-– it becomes "ません".
+So if we want to put all that in the past, what do we do? Well, all we have to do is put that "いる" into the past. So, we say, "さくらが走っていた" – "Sakura was running".
 
-Because it's formal, it's a bit old-fashioned and it uses the old Japanese negative "せん"
-instead of "ない".
-Note: Dolly once again makes a typo here in the video, I fixed it again. 
+```
+さくらが走っている。
 
-The only other apparent exception is that "いい" , the adjective "いい/良い", which means "is-good", has an older form, "よい/良い", which is still used quite often.
-And when we make any transformation to "いい", it turns back to "よい", so in the past tense we don't say "いかった", we say "よかった" – and if you've seen much anime you've probably heard this quite often.
+・さくらが：Sakura
+・走って：running-
+・いる：is
 
-"よかった", literally "(zeroが)よかった" – "(It) was good / That turned out well / That's great".
-And if you want to say something is not good, you don't say "いくない", you say "よくない".
+さくらが走っていた。
+
+・さくらが：Sakura
+・走って：running-
+・いた：was
+```
+
+And if we want to say "Sakura wasn't running", we say "さくらが走っていなかった".
+
+That "いる" is a simple ichidan verb, so we just drop the -る and put on た (positive past) or ない (negative) and, in the past, なかった (since ない in the past becomes なかった).
+
+
+```
+さくらが走っていない。
+
+・さくらが：Sakura
+・走って：running-
+・い：is-*
+・ない：not
+
+さくらが走っていなかった。
+
+・さくらが：Sakura
+・走って：running-
+・い：is-*
+・なかった：past-not
+
+* Ichidan verb stem
+```
+
+I always say that Japanese is like Lego. Once you know the basic building blocks, you can build anything. And there are almost no exceptions in Japanese.
+
+### Exceptions
+
+In the whole of what we've been talking about today, there are really just two exceptions. And I'm going to introduce those so that you know everything you need to know.
+
+The only real exception to every verb being made negative by adding "ない" is the verb "ます", which is a helper verb that makes words polite. We add it to the い-stem of a verb, and we will look at the い-stem later, but I think you can already guess what it is.
+
+So, "話す" becomes "話ます", "聞く" becomes "聞きます" and so on.
+
+When you put "ます" into the negative, it does not become "まさない", as you would expect – it becomes "ません".
+
+Because it's formal, it's a bit old-fashioned and it uses the old Japanese negative "せん" instead of "ない".
+
+The only other apparent exception is that "いい" , the adjective "いい/良い", which means "is-good", has an older form, "よい/良い", which is still used quite often. And when we make any transformation to "いい", it turns back to "よい", so in the past tense we don't say "いかった", we say "よかった" – and if you've seen much anime you've probably heard this quite often.
+
+"よかった", literally "(zeroが)よかった" – "(It) was good / That turned out well / That's great". And if you want to say something is not good, you don't say "いくない", you say "よくない".
+
 And those are the only exceptions.

@@ -93,8 +93,13 @@ const StructureContainer = styled.div`
     font-size: 1em;
   }
 
+  table,
+  table th,
+  table td,
   pre {
+    color: #d6d0c6;
     font-size: 1em;
+    font-weight: 300;
   }
 `;
 
