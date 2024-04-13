@@ -1,212 +1,230 @@
 {
-  "categories": [
-    {
-      "name": "Transcripts",
-      "url": "/transcripts",
-      "children": [
-        {
-          "name": "Anime",
-          "url": "/transcripts/anime",
-          "children": [
-            {
-              "name": "Bunny Girl Senpai",
-              "url": "/transcripts/anime/bunny-girl-senpai",
-              "children": [
-                {
-                  "name": "Season 1 - Episode 1",
-                  "url": "/transcripts/anime/bunny-girl-senpai/1"
-                },
-                {
-                  "name": "Season 1 - Episode 2",
-                  "url": "/transcripts/anime/bunny-girl-senpai/2"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Dokkai",
-          "url": "/transcripts/dokkai",
-          "children": [
-            {
-              "name": "JLPT N4 Dokkai",
-              "url": "/transcripts/dokkai/jlpt-n4-dokkai",
-              "children": [
-                {
-                  "name": "Sakura Dokkai 1",
-                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-1"
-                },
-                {
-                  "name": "Sakura Dokkai 2",
-                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-2"
-                },
-                {
-                  "name": "Sakura Dokkai 3",
-                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-3"
-                },
-                {
-                  "name": "Sakura Dokkai 4",
-                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-4"
-                },
-                {
-                  "name": "Ume Dokkai 1",
-                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-1"
-                },
-                {
-                  "name": "Ume Dokkai 2",
-                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-2"
-                },
-                {
-                  "name": "Ume Dokkai 3",
-                  "url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-3"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "YouTube",
-          "url": "/transcripts/youtube",
-          "children": [
-            {
-              "name": "Speak Japanese Naturally",
-              "url": "/transcripts/youtube/speak-japanese-naturally",
-              "children": [
-                {
-                  "name": "Exploring Japanese Neighborhood",
-                  "url": "/transcripts/youtube/speak-japanese-naturally/exploring-japanese-neighborhood"
-                }
-              ]
-            },
-            {
-              "name": "Akane's Japanese Class",
-              "url": "/transcripts/youtube/akane-japanese-class",
-              "children": [
-                {
-                  "name": "Japanese used when using transportation/Haneda Airport → Hamamatsucho",
-                  "url": "/transcripts/youtube/akane-japanese-class/transportation-hameda-hamamatsucho"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Choukai",
-          "url": "/transcripts/choukai",
-          "children": [
-            {
-              "name": "JLPT N3 Choukai",
-              "url": "/transcripts/choukai/jlpt-n3-choukai",
-              "children": [
-                {
-                  "name": "Choukai 1",
-                  "url": "/transcripts/choukai/jlpt-n3-choukai/1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Light Novels",
-          "url": "/transcripts/light-novels",
-          "children": [
-            {
-              "name": "Bunny Girl Senpai",
-              "url": "/transcripts/light-novels/bunny-girl-senpai",
-              "children": [
-                {
-                  "name": "Chapter 1",
-                  "url": "/transcripts/light-novels/bunny-girl-senpai/1"
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Structure",
-      "url": "/structure",
-      "children": [
-        {
-          "name": "Cure Dolly",
-          "url": "/structure/cure-dolly",
-          "children": [
-            {
-              "name": "1. Basic Types of Sentences",
-              "url": "/structure/cure-dolly/1-basic-types-of-sentences"
-            },
-            {
-              "name": "2. The Invisible Carriage and the を Particle",
-              "url": "/structure/cure-dolly/2-the-invisible-carriage"
-            },
-            {
-              "name": "3. The は Particle",
-              "url": "/structure/cure-dolly/3-the-wa-particle"
-            },
-            {
-              "name": "4. Japanese Verb Tenses",
-              "url": "/structure/cure-dolly/4-japanese-verb-tenses"
-            },
-            {
-              "name": "5. Verb Groups and the て-form",
-              "url": "/structure/cure-dolly/5-verb-groups-te-form"
-            },
-            {
-              "name": "6. Adjectives",
-              "url": "/structure/cure-dolly/6-adjectives"
-            },
-            {
-              "name": "7. Negative Forms and Adjectives in Past Tense",
-              "url": "/structure/cure-dolly/7-negative-forms-adjectives-past-tense"
-            },
-            {
-              "name": "7.5. Conjugations",
-              "url": "/structure/cure-dolly/7.5-conjugations"
-            },
-            {
-              "name": "8. The に and へ particles",
-              "url": "/structure/cure-dolly/8-the-ni-and-he-particles"
-            },
-            {
-              "name": "8.5. Particles Explained",
-              "url": "/structure/cure-dolly/8.5-particles-explained"
-            },
-            {
-              "name": "9. The Subject of the Japanese Sentence & Expressing Desire: ほしい, たい, たがる",
-              "url": "/structure/cure-dolly/9-subject-of-japanese-sentence-expressing-desire"
-            },
-            {
-              "name": "10. Helper Verbs & The Potential Helper Verb",
-              "url": "/structure/cure-dolly/10-helper-verbs-potential-helper-verb"
-            },
-            {
-              "name": "11. Compound Sentences, くれる, あげる, and more uses of the て-form",
-              "url": "/structure/cure-dolly/11-compound-sentences"
-            },
-            {
-              "name": "16. てみる, や particle, から particle, exclusive “and”",
-              "url": "/structure/cure-dolly/16-te-miru-ya-kara"
-            },
-            {
-              "name": "26. Similes: ようだ・のように・のような・みたい",
-              "url": "/structure/cure-dolly/26-similes"
-            },
-            {
-              "name": "27. ばかり",
-              "url": "/structure/cure-dolly/27-bakari"
-            },
-            {
-              "name": "28. ように",
-              "url": "/structure/cure-dolly/28-youni"
-            },
-            {
-              "name": "Best Comments of Cure Dolly",
-              "url": "/structure/cure-dolly/best-comments"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"categories": [
+		{
+			"name": "Transcripts",
+			"url": "/transcripts",
+			"children": [
+				{
+					"name": "Anime",
+					"url": "/transcripts/anime",
+					"children": [
+						{
+							"name": "Bunny Girl Senpai",
+							"url": "/transcripts/anime/bunny-girl-senpai",
+							"children": [
+								{
+									"name": "Season 1 - Episode 1",
+									"url": "/transcripts/anime/bunny-girl-senpai/1"
+								},
+								{
+									"name": "Season 1 - Episode 2",
+									"url": "/transcripts/anime/bunny-girl-senpai/2"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Dokkai",
+					"url": "/transcripts/dokkai",
+					"children": [
+						{
+							"name": "JLPT N4 Dokkai",
+							"url": "/transcripts/dokkai/jlpt-n4-dokkai",
+							"children": [
+								{
+									"name": "Sakura Dokkai 1",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-1"
+								},
+								{
+									"name": "Sakura Dokkai 2",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-2"
+								},
+								{
+									"name": "Sakura Dokkai 3",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-3"
+								},
+								{
+									"name": "Sakura Dokkai 4",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/sakura-dokkai-4"
+								},
+								{
+									"name": "Ume Dokkai 1",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-1"
+								},
+								{
+									"name": "Ume Dokkai 2",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-2"
+								},
+								{
+									"name": "Ume Dokkai 3",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-3"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "YouTube",
+					"url": "/transcripts/youtube",
+					"children": [
+						{
+							"name": "Speak Japanese Naturally",
+							"url": "/transcripts/youtube/speak-japanese-naturally",
+							"children": [
+								{
+									"name": "Exploring Japanese Neighborhood",
+									"url": "/transcripts/youtube/speak-japanese-naturally/exploring-japanese-neighborhood"
+								}
+							]
+						},
+						{
+							"name": "Akane's Japanese Class",
+							"url": "/transcripts/youtube/akane-japanese-class",
+							"children": [
+								{
+									"name": "Japanese used when using transportation/Haneda Airport → Hamamatsucho",
+									"url": "/transcripts/youtube/akane-japanese-class/transportation-hameda-hamamatsucho"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Choukai",
+					"url": "/transcripts/choukai",
+					"children": [
+						{
+							"name": "JLPT N3 Choukai",
+							"url": "/transcripts/choukai/jlpt-n3-choukai",
+							"children": [
+								{
+									"name": "Choukai 1",
+									"url": "/transcripts/choukai/jlpt-n3-choukai/1"
+								}
+							]
+						}
+					]
+				},
+				{
+					"name": "Light Novels",
+					"url": "/transcripts/light-novels",
+					"children": [
+						{
+							"name": "Mata Onaji Yume o Miteita",
+							"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita",
+							"children": [
+								{
+									"name": "Chapter 1",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/1"
+								},
+								{
+									"name": "Chapter 2",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/2"
+								},
+								{
+									"name": "Chapter 3",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/3"
+								}
+							]
+						},
+						{
+							"name": "Bunny Girl Senpai",
+							"url": "/transcripts/light-novels/bunny-girl-senpai",
+							"children": [
+								{
+									"name": "Chapter 1",
+									"url": "/transcripts/light-novels/bunny-girl-senpai/1"
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "Structure",
+			"url": "/structure",
+			"children": [
+				{
+					"name": "Cure Dolly",
+					"url": "/structure/cure-dolly",
+					"children": [
+						{
+							"name": "1. Basic Types of Sentences",
+							"url": "/structure/cure-dolly/1-basic-types-of-sentences"
+						},
+						{
+							"name": "2. The Invisible Carriage and the を Particle",
+							"url": "/structure/cure-dolly/2-the-invisible-carriage"
+						},
+						{
+							"name": "3. The は Particle",
+							"url": "/structure/cure-dolly/3-the-wa-particle"
+						},
+						{
+							"name": "4. Japanese Verb Tenses",
+							"url": "/structure/cure-dolly/4-japanese-verb-tenses"
+						},
+						{
+							"name": "5. Verb Groups and the て-form",
+							"url": "/structure/cure-dolly/5-verb-groups-te-form"
+						},
+						{
+							"name": "6. Adjectives",
+							"url": "/structure/cure-dolly/6-adjectives"
+						},
+						{
+							"name": "7. Negative Forms and Adjectives in Past Tense",
+							"url": "/structure/cure-dolly/7-negative-forms-adjectives-past-tense"
+						},
+						{
+							"name": "7.5. Conjugations",
+							"url": "/structure/cure-dolly/7.5-conjugations"
+						},
+						{
+							"name": "8. The に and へ particles",
+							"url": "/structure/cure-dolly/8-the-ni-and-he-particles"
+						},
+						{
+							"name": "8.5. Particles Explained",
+							"url": "/structure/cure-dolly/8.5-particles-explained"
+						},
+						{
+							"name": "9. The Subject of the Japanese Sentence & Expressing Desire: ほしい, たい, たがる",
+							"url": "/structure/cure-dolly/9-subject-of-japanese-sentence-expressing-desire"
+						},
+						{
+							"name": "10. Helper Verbs & The Potential Helper Verb",
+							"url": "/structure/cure-dolly/10-helper-verbs-potential-helper-verb"
+						},
+						{
+							"name": "11. Compound Sentences, くれる, あげる, and more uses of the て-form",
+							"url": "/structure/cure-dolly/11-compound-sentences"
+						},
+						{
+							"name": "16. てみる, や particle, から particle, exclusive “and”",
+							"url": "/structure/cure-dolly/16-te-miru-ya-kara"
+						},
+						{
+							"name": "26. Similes: ようだ・のように・のような・みたい",
+							"url": "/structure/cure-dolly/26-similes"
+						},
+						{
+							"name": "27. ばかり",
+							"url": "/structure/cure-dolly/27-bakari"
+						},
+						{
+							"name": "28. ように",
+							"url": "/structure/cure-dolly/28-youni"
+						},
+						{
+							"name": "Best Comments of Cure Dolly",
+							"url": "/structure/cure-dolly/best-comments"
+						}
+					]
+				}
+			]
+		}
+	]
 }
