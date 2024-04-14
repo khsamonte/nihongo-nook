@@ -83,8 +83,12 @@
 							"url": "/transcripts/youtube/akane-japanese-class",
 							"children": [
 								{
-									"name": "Japanese used when using transportation/Haneda Airport → Hamamatsucho",
+									"name": "Haneda Airport → Hamamatsucho",
 									"url": "/transcripts/youtube/akane-japanese-class/transportation-hameda-hamamatsucho"
+								},
+								{
+									"name": "Furniture and home appliances",
+									"url": "/transcripts/youtube/akane-japanese-class/furniture-home-appliances"
 								}
 							]
 						}
@@ -125,6 +129,38 @@
 								{
 									"name": "Chapter 3",
 									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/3"
+								},
+								{
+									"name": "Chapter 4",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/4"
+								},
+								{
+									"name": "Chapter 5",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/5"
+								},
+								{
+									"name": "Chapter 6",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/6"
+								},
+								{
+									"name": "Chapter 7",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/7"
+								},
+								{
+									"name": "Chapter 8",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/8"
+								},
+								{
+									"name": "Chapter 9",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/9"
+								},
+								{
+									"name": "Chapter 10",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/10"
+								},
+								{
+									"name": "Chapter 11",
+									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/11"
 								}
 							]
 						},

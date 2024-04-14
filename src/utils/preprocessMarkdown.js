@@ -17,7 +17,7 @@ const properNouns = {
 			"翔子",
 			"朋絵",
 		],
-		places: ["峰ヶ原"],
+		places: ["峰ヶ原", "小田急江ノ島", "相鉄いずみ野", "横浜市営", "湘南台"],
 	},
 	"speak-japanese-naturally": {
 		names: ["地蔵", "信玄", "アジサイ"],
@@ -34,6 +34,8 @@ const properNouns = {
 			"浅草",
 			"増上寺",
 			"芝公園",
+			"日比谷",
+			"箱根",
 		],
 	},
 };
