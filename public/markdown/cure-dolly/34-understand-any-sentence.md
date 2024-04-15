@@ -325,6 +325,26 @@ So we were right. (about the は presumption)
 
 We have the A-car, which is the exchange student (in the sentence, it would be more specifically the zeroが after ”留学生は” which implies said exchange student, that is the invisible subject, so subject is also the topic here) who can speak Japanese that I told Sakura about married (B-Car - predicate) a woman who won an Olympic gold medal.
 
+```
+私がさくらに話た日本語ができる留学生は(zeroが)五輪金メダルを獲得した女性と結婚した。
+
+・私が：I
+・さくらに：Sakura-to
+・話た：said
+・日本語が：Japanese-is
+・できる：possible
+・留学生は：foreign exchange student-as-for
+・(zeroが)：(I Sakura-to said the Japanese-is-possible foreign-exchange-student)-as-for
+・五輪金メダルを：Olympic gold medal
+・獲得した：earned
+・女性と：woman-with
+・結婚した：married
+
+I Sakura-to said the Japanese-is-possible foreign-exchange-student as-for, Olympic gold medal-earned woman-with married.
+
+The Japanese-speaking exchange student who I told Sakura got married with a woman who earned an Olympic gold medal.
+```
+
 And as you see, we've got various actions going on in this sentence; we've got various things that could, under different circumstances, form logical clauses of their own, but none of them actually can.
 
 We now know that this is not a compound sentence.
