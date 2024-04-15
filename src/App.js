@@ -19,52 +19,52 @@ import navigationData from "./navigationData.json";
 const categories = navigationData?.categories;
 
 function App() {
-	return (
-		<Router basename={process.env.PUBLIC_URL}>
-			<Routes>
-				<Route
-					path="/"
-					element={
-						<MainLayout>
-							<HomePage categories={categories} />
-						</MainLayout>
-					}
-				/>
-				<Route
-					path="/:group/"
-					element={
-						<MainLayout>
-							<Transcripts items={categories} />
-						</MainLayout>
-					}
-				/>
-				<Route
-					path="/:group/:category"
-					element={
-						<MainLayout>
-							<TranscriptCategory items={categories} />
-						</MainLayout>
-					}
-				/>
-				<Route
-					path="/:group/:category/:title"
-					element={
-						<MainLayout>
-							<Title items={categories} />
-						</MainLayout>
-					}
-				/>
-				<Route
-					path="/:group/:category/:title/:transcript"
-					element={
-						<MainLayout>
-							<Transcript />
-						</MainLayout>
-					}
-				/>
-			</Routes>
-		</Router>
-	);
+  return (
+    <Router basename={process.env.PUBLIC_URL}>
+      <Routes>
+        <Route
+          path="/"
+          element={
+            <MainLayout>
+              <HomePage categories={categories} />
+            </MainLayout>
+          }
+        />
+        <Route
+          path="/:group/"
+          element={
+            <MainLayout>
+              <Transcripts items={categories} />
+            </MainLayout>
+          }
+        />
+        <Route
+          path="/:group/:category"
+          element={
+            <MainLayout>
+              <TranscriptCategory items={categories} />
+            </MainLayout>
+          }
+        />
+        <Route
+          path="/:group/:category/:title"
+          element={
+            <MainLayout>
+              <Title items={categories} />
+            </MainLayout>
+          }
+        />
+        <Route
+          path="/:group/:category/:title/:transcript"
+          element={
+            <MainLayout>
+              <Transcript />
+            </MainLayout>
+          }
+        />
+      </Routes>
+    </Router>
+  );
 }
 
 export default App;
