@@ -340,6 +340,12 @@ We have the A-car, which is the exchange student (in the sentence, it would be m
 ・女性と：woman-with
 ・結婚した：married
 
+Clause 1：私がさくらに話た
+Clause 2：日本語ができる
+Clause 3：留学生は結婚した
+Clause 4：五輪金メダルを獲得した
+Clause 5：
+
 I Sakura-to said the Japanese-is-possible foreign-exchange-student as-for, Olympic gold medal-earned woman-with married.
 
 The Japanese-speaking exchange student who I told Sakura got married with a woman who earned an Olympic gold medal.
