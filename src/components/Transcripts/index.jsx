@@ -35,6 +35,19 @@ const Transcripts = ({ items }) => {
           </NavList>
         </>
       );
+    } else if (group === "journal") {
+      return (
+        <>
+          <h1>Journal</h1>
+          <NavList>
+            {data?.children.map((item) => (
+              <NavItem key={item?.url}>
+                <Link to={`${item?.url}`}>{item?.name}</Link>
+              </NavItem>
+            ))}
+          </NavList>
+        </>
+      );
     }
 
     return <p>Nothing here.</p>;

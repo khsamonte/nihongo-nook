@@ -269,6 +269,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Journal",
+      "url": "/journal",
+      "children": [
+        {
+          "name": "Learning",
+          "url": "/journal/learning",
+          "children": [
+            {
+              "name": "First Year Studying Japanese",
+              "url": "/journal/learning/first-year-studying-japanese"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

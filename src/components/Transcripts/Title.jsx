@@ -32,13 +32,13 @@ const Title = ({ items }) => {
           </NavList>
         );
       }
-    } else if (group === "structure") {
+    } else if (group === "structure" || group === "journal") {
       const basePath = process.env.PUBLIC_URL || "";
       const path = `${basePath}/markdown/${category}/${title}.md`;
 
       return (
         <StructureContainer>
-          <MarkdownContent markdownFile={path} />
+          <MarkdownContent markdownFile={path} dataToProcess={category} />
         </StructureContainer>
       );
     }

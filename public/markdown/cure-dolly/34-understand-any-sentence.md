@@ -344,7 +344,6 @@ Clause 1：私がさくらに話た
 Clause 2：日本語ができる
 Clause 3：留学生は結婚した
 Clause 4：五輪金メダルを獲得した
-Clause 5：
 
 I Sakura-to said the Japanese-is-possible foreign-exchange-student as-for, Olympic gold medal-earned woman-with married.
 

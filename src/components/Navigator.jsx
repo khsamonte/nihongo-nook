@@ -75,13 +75,13 @@ const Navigator = ({ isNavOpen }) => {
 
 const NavigatorContainer = styled.nav`
   height: 100%;
-  overflow-y: scroll;
   width: 30%;
 
   @media screen and (max-width: 1024px) {
     background: #212121;
     left: -100%;
     min-height: 100vh;
+    overflow-y: scroll;
     padding: 2em 3em;
     position: fixed;
     top: 0;
