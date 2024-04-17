@@ -47,7 +47,7 @@ After doing this for two episodes, I was suddenly _quite_ comfortable with indul
 
 My point is - this was a tremendous source of enjoyment for me, and I strongly believe that the best way to learn a language is to have fun with how you learn, no matter how personalized your methods are.
 
-Here's an interesting realization: as someone who voraciously reads English content, reading Japanese content presently bores me to no end.
+Here's an interesting realization: as someone who voraciously reads English content, reading Japanese content presently bores me to no end. 
 
 ## Present
 
