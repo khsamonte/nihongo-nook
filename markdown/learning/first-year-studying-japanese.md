@@ -71,11 +71,11 @@ Cure Dolly's lessons, along with my daily flashcard reps, serve only as a supple
 
 ### Current routine:
 
-+ Dedicating most of my free time to consuming Japanese content _repetitively_. 
-+ Eliminated Kanji rote writing from my routine altogether. Writing is effective for some people - I'm just not one of them. I find mnemonics to be more effective, but I don't spend a lot of time thinking about it.
-+ Active listening immersion during 2.5 hours of commute and passive listening at work.
-+ Occasionally chatting and talking in Japanese to my partner (she is N2-level).
-+ Finishing my daily Anki flashcards in the morning. My card format is: Kanji in front, reading/meaning/audio/sentence at the back.
++ ・Dedicating most of my free time to consuming Japanese content _repetitively_. 
++ ・Eliminated Kanji rote writing from my routine altogether. Writing is effective for some people - I'm just not one of them. I find mnemonics to be more effective, but I don't spend a lot of time thinking about it.
++ ・Active listening immersion during 2.5 hours of commute and passive listening at work.
++ ・Occasionally chatting and talking in Japanese to my partner (she is N2-level).
++ ・Finishing my daily Anki flashcards in the morning. My card format is: Kanji in front, reading/meaning/audio/sentence at the back.
 
 ### An honest rating of my present skills:
 
@@ -86,11 +86,15 @@ Cure Dolly's lessons, along with my daily flashcard reps, serve only as a supple
 
 ## Takeaways
 
-+ ・Language schools can give you a rough framework on how to start and continue with your studies, and a hundred hours of language school grants you a Student Visa eligibility, but its pedagogical efficacy differs from person-to-person. The possibility of losing motivation after attaining low scores, vocab drills without sentence context, and the way in which some of the grammatical foundations is taught were some of my major issues. They are a rich source of learning material and resources for your own studies, however.
-+ ・There is such a thing as over-reliance on Google Translate. I highly recommend trying to analyze more complex sentences on your own first, with Google Translate only serving as a last resort.
-+ ・Aside from obvious nouns like "dog" and "vending machine", Japanese words have a life of their own and cannot be completely defined by their closest English translation. The word 面白い (omoshiroi) means "funny", but it also means "interesting". Some words don't even have direct translations; they can only be grasped by the context in which they are used.
-+ ・You don't always have to immerse in material with comprehensible input (i+1). Sometimes, you can listen to something way more challenging above your current level. The important thing is you are _enjoying the material_ enough for you to listen to it over and over and over.
-+ ・Technology has immensely facilitated the study of languages, and we are very fortunate to be living in modern times.
+・Language schools can give you a rough framework on how to start and continue with your studies, and a hundred hours of language school grants you a Student Visa eligibility, but its pedagogical efficacy differs from person-to-person. The possibility of losing motivation after attaining low scores, vocab drills without sentence context, and the way in which some of the grammatical foundations is taught were some of my major issues. They are a rich source of learning material and resources for your own studies, however.
+
+・There is such a thing as over-reliance on Google Translate. I highly recommend trying to analyze more complex sentences on your own first, with Google Translate only serving as a last resort.
+
+・Aside from obvious nouns like "dog" and "vending machine", Japanese words have a life of their own and cannot be completely defined by their closest English translation. The word 面白い (omoshiroi) means "funny", but it also means "interesting". Some words don't even have direct translations; they can only be grasped by the context in which they are used.
+
+・You don't always have to immerse in material with comprehensible input (i+1). Sometimes, you can listen to something way more challenging above your current level. The important thing is you are _enjoying the material_ enough for you to listen to it over and over and over.
+
+・Technology has immensely facilitated the study of languages, and we are very fortunate to be living in modern times.
 
 ## Resources
 
@@ -98,6 +102,8 @@ Cure Dolly's lessons, along with my daily flashcard reps, serve only as a supple
 
 ## Future Plans
 
-+ ・**Start reading novels.** As someone who voraciously reads English content and heavily prefers ebooks over audioboks, reading Japanese content presently bores me to no end. I am not as enthusiastic when it comes to reading materials as I am when listening to audio material while reading the transcript/subtitles. But I cannot deny the effectiveness and importance of reading: I've read posts about [people who were conversationally fluent but much less lliterate](https://www.reddit.com/r/LearnJapanese/comments/1c53bk2/actually_living_in_japan_but_illiterate_and/) and [people who were much more literate than they are conversationally fluent](https://www.reddit.com/r/LearnJapanese/comments/1c47cvt/actually_going_to_japan_made_me_realize_id_rather/). For my second year, I plan to indulge on light novels from start to finish and then listen to their respective audiobooks repeatedly.
-+ **Start practicing output.** Tagalog is my native language, but I grew up being exposed to English media. I was already heavy into writing short stories before I started reading books when I was young, but it took me several years to be as good in speaking the language as I am in writing. I initially thought my level of fluency in English was unattainable, especially speaking-wise. With Japanese, it feels the same: I can hold a conversation through chat, but my speaking skills are far inferior. I might post about my methods next year once I figure them out.
-+ ・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a very long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is tough, but I am pleased with my current progress.
+・**Start reading novels.** As someone who voraciously reads English content and heavily prefers ebooks over audioboks, reading Japanese content presently bores me to no end. I am not as enthusiastic when it comes to reading materials as I am when listening to audio material while reading the transcript/subtitles. But I cannot deny the effectiveness and importance of reading: I've read posts about [people who were conversationally fluent but much less lliterate](https://www.reddit.com/r/LearnJapanese/comments/1c53bk2/actually_living_in_japan_but_illiterate_and/) and [people who were much more literate than they are conversationally fluent](https://www.reddit.com/r/LearnJapanese/comments/1c47cvt/actually_going_to_japan_made_me_realize_id_rather/). For my second year, I plan to indulge on light novels from start to finish and then listen to their respective audiobooks repeatedly.
+
+・**Start practicing output.** Tagalog is my native language, but I grew up being exposed to English media. I was already heavy into writing short stories before I started reading books when I was young, but it took me several years to be as good in speaking the language as I am in writing. I initially thought my level of fluency in English was unattainable, especially speaking-wise. With Japanese, it feels the same: I can hold a conversation through chat, but my speaking skills are far inferior. I might post about my methods next year once I figure them out.
+
+・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a very long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is tough, but I am pleased with my current progress.
