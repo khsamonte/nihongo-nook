@@ -35,9 +35,9 @@ Oneechan did not play for Alice's benefit
 ・ウサギは：rabbit-as-for
 ・(zeroが)：it/he/she（Ａ）
 ・懐中時計を：pocket-watch
-・見て：looked-and（B1）
+・見て：looked-and-（B1）
 ・「(zeroが)遅い！(zeroが)遅い！」："late! late!"*
-・と言って：said-and（B2）
+・と言って：said-and-（B2）
 ・走り：run-
 ・出した：-broke out（B3）
 
@@ -94,5 +94,15 @@ Rabbit as for, run-broke out
 ```
 この世の中にあるもんは誰かが観測して初めて存在が確定するという理論だ。
 
-
+・この：this
+・世の中に：society-in
+・ある：there
+・もんは：thing-as-for
+・誰かが：somebody is
+・観測して：-observe-and-
+・初めて：
+・存在が：existence
+・確定する：confirm
+・という：that
+・理論だ：-theory-is-
 ```
