@@ -59,6 +59,10 @@
 								{
 									"name": "Ume Dokkai 3",
 									"url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-3"
+								},
+								{
+									"name": "Ume Dokkai 4",
+									"url": "/transcripts/dokkai/jlpt-n4-dokkai/ume-dokkai-4"
 								}
 							]
 						}
@@ -125,62 +129,70 @@
 					"url": "/transcripts/light-novels",
 					"children": [
 						{
-							"name": "Mata Onaji Yume o Miteita",
-							"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita",
+							"name": "また、同じ夢を見ていた",
+							"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita",
 							"children": [
 								{
 									"name": "Chapter 1",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/1"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/1"
 								},
 								{
 									"name": "Chapter 2",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/2"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/2"
 								},
 								{
 									"name": "Chapter 3",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/3"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/3"
 								},
 								{
 									"name": "Chapter 4",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/4"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/4"
 								},
 								{
 									"name": "Chapter 5",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/5"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/5"
 								},
 								{
 									"name": "Chapter 6",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/6"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/6"
 								},
 								{
 									"name": "Chapter 7",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/7"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/7"
 								},
 								{
 									"name": "Chapter 8",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/8"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/8"
 								},
 								{
 									"name": "Chapter 9",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/9"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/9"
 								},
 								{
 									"name": "Chapter 10",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/10"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/10"
 								},
 								{
 									"name": "Chapter 11",
-									"url": "/transcripts/light-novels/mata-onaji-yume-o-miteita/11"
+									"url": "/transcripts/light-novels/mata-onaji-yume-wo-miteita/11"
 								}
 							]
 						},
 						{
-							"name": "Bunny Girl Senpai",
+							"name": "青春ブタ野郎",
 							"url": "/transcripts/light-novels/bunny-girl-senpai",
 							"children": [
 								{
 									"name": "Chapter 1",
 									"url": "/transcripts/light-novels/bunny-girl-senpai/1"
+								},
+								{
+									"name": "Chapter 2",
+									"url": "/transcripts/light-novels/bunny-girl-senpai/2"
+								},
+								{
+									"name": "Chapter 3",
+									"url": "/transcripts/light-novels/bunny-girl-senpai/3"
 								}
 							]
 						}
