@@ -51,20 +51,20 @@ I combined Intensive, Free-Flow, and Passive Immersion methods into one. Here is
 
 Free-Flow Immersion:
 
-+ １）Watch a whole anime episode/YouTube video with Japanese subtitles with minimal to no pauses (this is known as free-flow immersion)
++ １）Watch a whole anime episode/YouTube video with Japanese subtitles with minimal to no pauses.
 
 Active Immersion:
 
-+ ２）In particularly interesting episodes/videos, strip the audio via torrent or converters, trim out the unnecessary parts using audio software (e.g. Audacity), and transfer the refined audio file to a phone
-+ ３）Generate the transcript from the subtitles using Language Reactor
-+ ４）Study each line and sentence intensively by looking up the definition of each new word and try to make sense of the sentence from its context
-+ ５）Add one flashcard to the Anki Japanese deck for every new unknown word that I find useful to learn
++ ２）In particularly interesting episodes/videos, strip the audio via torrent or converters, trim out the unnecessary parts using audio software (e.g. Audacity), and transfer the refined audio file to a phone.
++ ３）Generate the transcript from the subtitles using Language Reactor.
++ ４）Study each line and sentence intensively by looking up the definition of each new word and try to make sense of the sentence from its context.
++ ５）Add one flashcard to the Anki Japanese deck for every new unknown word that I find useful to learn.
 
 Passive Immersion: 
 
-+ ６）Listen and re-listen to the audio as many times as possible
-+ ７）Read and re-read the transcript as many times as possible
-+ ８）Simultaneously do 6 and 7 occasionally
++ ６）Listen and re-listen to the audio as many times as possible.
++ ７）Read and re-read the transcript as many times as possible.
++ ８）Simultaneously do 6 and 7 occasionally.
 
 This method is definitely not going to be effective for everyone in the same way AJATT did not work for me. But this process works for me because 1) I enjoy the whole laborious process and 2) I have a _very low_ tolerance for ambiguity (i.e., I prefer to fully understand all the vocab and grammar in a transcript).
 
