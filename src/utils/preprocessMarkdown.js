@@ -26,10 +26,10 @@ const properNouns = {
 	},
 	"speak-japanese-naturally": {
 		names: ["地蔵", "信玄", "アジサイ"],
-		places: ["武田", "甲府"],
+		places: ["武田", "甲府", "新宿", "東急歌舞伎町", "東京", "石川県"],
 	},
 	"akane-japanese-class": {
-		names: ["あかね"],
+		names: ["あかね", "店員"],
 		places: [
 			"浜松町",
 			"羽田",
@@ -41,6 +41,15 @@ const properNouns = {
 			"芝公園",
 			"日比谷",
 			"箱根",
+			"品川",
+			"小田原",
+			"神奈川",
+			"こだま",
+			"東海道",
+			"二の丸東堀",
+			"四国",
+			"熱海",
+			"ヤマト運輸宅急便",
 		],
 	},
 	"naoko-daily	-japanese": {
