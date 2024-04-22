@@ -25,7 +25,7 @@ const properNouns = {
 		places: ["test"],
 	},
 	"speak-japanese-naturally": {
-		names: ["地蔵", "信玄", "アジサイ"],
+		names: ["ふみ", "地蔵", "信玄", "アジサイ"],
 		places: ["武田", "甲府", "新宿", "東急歌舞伎町", "東京", "石川県"],
 	},
 	"akane-japanese-class": {
@@ -52,7 +52,7 @@ const properNouns = {
 			"ヤマト運輸宅急便",
 		],
 	},
-	"naoko-daily	-japanese": {
+	"naoko-daily-japanese": {
 		names: ["なおこ"],
 		places: ["スペイン"],
 	},
