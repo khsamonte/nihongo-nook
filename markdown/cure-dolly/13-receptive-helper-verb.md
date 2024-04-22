@@ -55,6 +55,17 @@ All right?
 
 So, let's take a simple example: 「さくらが叱られた。」
 
+```
+さくらが・叱ら・れた。
+
+・さくらが：Sakura（Ａ）
+・叱ら：scolded-
+・れた：-got（Ｂ）
+
+Core sentence is Sakura-ga reta: Sakura got
+shikara is modifier telling us what Sakura got
+```
+
 叱る/しかる means "scold" or "tell off", and the あ-stem is 叱ら, so when we add to that れる and put it into the past tense we get しかれた/叱られた. 
 
 叱る is "scold", 叱られる is "get scolded", 叱られた is "got scolded", so, "Sakura got scolded".
@@ -63,7 +74,9 @@ So, let's take a simple example: 「さくらが叱られた。」
 
 Now, there's an important thing to bear in mind here, and that is that we can sometimes, with a helper verb attached to a verb, we can, as a sort of railroad shorthand, condense those two parts into one verb.
 
-So we can say 「本が読める」 and although 読める, which is the potential form of 読む, is strictly speaking よめ plus る, we can combine them together and treat 読める as one engine. But we can't, and never should, do that with the receptive helper verb. Why not? Because when the receptive helper verb is attached to another verb, the action of the first verb is always done by someone different from the action of the second verb れる・られる.
+So we can say 「本が読める」 and although 読める, which is the potential form of 読む, is strictly speaking よめ plus る, we can combine them together and treat 読める as one engine.
+
+But we can't, and never should, do that with the receptive helper verb. Why not? Because when the receptive helper verb is attached to another verb, the action of the first verb is always done by someone different from the action of the second verb れる・られる.
 
 So, we always have in a receptive sentence the action that is done by someone else, whom we may or may not know, plus the real action of the sentence which is れる・られる, the receiving—the getting—of that action. 
 
@@ -77,7 +90,29 @@ The head verb of a れる・られる receptive sentence is always れる or ら
 
 Now, let's also notice that the A-Car, the actor of the sentence, is not necessarily a person.  So, if we say, 「水が飲まれた」 (飲む＝drink; のま＝ あ stem of drink; れた＝ got), we're saying "The water got drunk". And the actor of that sentence is the water. 
 
-Now, even if we add a doer of the action: 「水が犬に飲まれた」, the actor of the sentence is still the water, not the dog, because it's the water that got drunk, it's the water that did the getting. The dog did the drinking, but the water did the getting.
+```
+水が・飲ま・れた
+
+・水が：water
+・飲ま：drunk-
+・れた：-got
+```
+
+Now, even if we add a doer of the action: 「水が犬に飲まれた」,
+
+```
+水が・犬に・飲ま・れた
+
+・水が：water
+・犬に：dog-by
+・飲ま：drunk-
+・れた：-got
+
+に-car modifies White Engine: White Engine modifies Black Engine
+("modify" = "add information to")
+```
+
+the actor of the sentence is still the water, not the dog, because it's the water that got drunk, it's the water that did the getting. The dog did the drinking, but the water did the getting.
 
 And the dog drinking the water is all a white section which modifies that final head verb, "get". "The water got drunk by the dog." 
 
@@ -86,6 +121,16 @@ Now, why do I mark the dog with に? I'm going to come to that in just a moment.
 Let's get a fuller sentence so we can see all the particles working together in a receptive sentence: 
 
 「さくらは誰かにカバンが盗まれた。」
+
+```
+さくらは・誰かに・カバンが・盗ま・れた。
+
+・さくらは：Sakura-topic
+・誰かに：someone-by
+・カバンが：bag
+・盗ま：stolen-
+・れた：-got
+```
 
 (盗む/ぬすむ＝ steal; 盗ま＝ あ stem of steal; 盗まれる＝ get stolen; 盗まれた＝ got stolen). 
 
@@ -117,55 +162,123 @@ So に performs the same function in relation to a pull-verb that it performs in
 
 > My understanding of this would be too long again, so I will not include it here, it is not needed here since I think Dolly explained it clearly enough and I do not want to put more headings here...
 
-So you see, all the particles are doing exactly what they always do. Nothing is changing here. 
-Note: Well, as shown above, in the Passive/Receptive it sort of changes in that they reverse their polarity.
-Hence why に is not “to” - receiver/”target” of action like in Active, but is now “by/from” - the doer, and が instead is the receiver of the base action (ぬすむ) via れる. It can be explained via Thematic Relations.  
-If you think of it as "passive conjugation", all the particles do a strange dance and seem to be doing different things from what they usually do, but if you understand it as it is - the receptive helper verb - there isn't any problem. And it all makes sense, just the way Japanese always does if you know what it's really doing.
-“Nuisance Receptive/Passive”/迷惑受け身
-Now, there's one other area in which the receptive sometimes confuses people, and that is in the so-called "suffering passive" or "adversity passive", 
-which is actually called in Japanese the 迷惑受け身/めいわくうけみ, which means the "nuisance receptive". And that's what it is. It's the nuisance receptive.
----
-「さくらはだれかにかばんがぬすまれた。」means "Sakura's bag got stolen by someone" or, literally, "In relation to Sakura, bag got stolen by someone". Note: Normal receptive.
+@Cure Dolly:
 
-BIG note: Notice the が before a receptive-marked verb instead of a direct object を. I recommend reading THIS CHAIN about why there is が instead of を if you are not sure. Actor should mean Subject for Dolly but even that is just my guess based on when she uses it since she does not seem to explain what she really means by it, in one comment chain under this video she even calls Receptive に as “secondary actor” (which is more akin to the actual linguistic Actor…or Macrorole of Agent there) which does not help. 
-VERY optional “Explanation” Note & example of my chronic rambling (or whatever lol)
-This is just one of my usual linguistic ramblings that do not really matter in the grand scheme of things & are here for especially my own linguistic interest (or those who want to go more in-depth)
-I am just testing/practicing how I understand stuff with this in the general sense of linguistics.
-MY KNOWLEDGE IS VERY LIMITED, SO IT IS JUST ME EXPERIMENTING WITH A HYPOTHESIS.
-I AM VERY AWARE WHAT I SAY MIGHT BE MISLEADING IF NOT OUTRIGHT WRONG!
-Dolly obviously does not use the terms as rigidly as I will here, because it is just basic grammar so it obviously has no need to be here anyway, but for the sake of it, I will have some linguistic fun:) 
-Grammar is complex, so I still have things to learn and whatnot so I will also use this to research.
-Furthermore, please keep in mind that I am somewhat simplifying the Semantic roles here, that is I use the term “Agent” and “Patient”, but these are just one type and there are multiple “subtypes”, like Experiencer, Beneficiary, Goal etc. etc., but I feel it is complex enough with just Agent and Patient etc. , so keep this in mind. You can look them up in Thematic Relations for example. 
-If still unclear, to my understanding, it can be explained through Semantic roles/Thematic relations. 
-Mind that Syntax / Syntactic and Semantics / Semantic are two different fields and one Syntactic function (Subject etc.) can have multiple Semantic roles, especially in terms of Active vs Passive/Receptive.
-It is because this is Passive/Receptive, かばん has the SYNTACTIC function of the SUBJECT (hence が marked) BUT it has the same SEMANTIC function of the PATIENT - it received the act of the (verbs) stealing/being stolen by someone. In Active voice かばん has the SYNTACTIC function of the DIRECT OBJECT but still would have the SEMANTIC function of the PATIENT. 
-Thus, if we were to have かばん marked by を (Direct Object - Syntactic function), it would have to be in the Active voice (since in Passive, we tend to put the Direct Object as the Subject instead) OR, as will be shown below, it would have to be in the form of a “Nuisance Receptive” as a secondary Object connected to a secondary Verb that adds “description” info about the main part.
-The term Actor that Dolly uses SHOULD mean the same as Agent as said here and here from what I found, but Dolly seems to use it here for Subject, in a way Actor should imply the one that does the action of the main verb, so I am confused what Actor means for her here, but it might be that… in which case, I get what Dolly means, tho she might be here merging the Syntactic and Semantic functions, else I misunderstood what she is implying by Actor here, since she seems to point it to the Subject which is a SYNTACTIC property, while Actor (or Agent) is a SEMANTIC property and in this sentence, in the comment she calls かばん “Actor”, かばん should be the Patient (or Undergoer to be clearer), not “Actor” as it receives the action, not doing the action of the main verb. That is to say if Actor is indeed like Agent. 
-To be real, the term Actor I have seen used only rarely and it should imply Semantic function, BUT it can be used to refer to the “Semantic Macrorole” for Subject in the Active voice and by-phrase in the Passive (while Patient is the Direct Object in the Active and the Subject in the Passive, whose Macrorole is called “Undergoer”), as given here in the paper by a linguist Robert Van Valin (Van Valin, Role and Reference Grammar, 2002) on pages 1 & 3 and it points to the relationship between Semantics & Syntax.
-Usually Agent (or its sub-names) are used, so it greatly confused me, but from other lessons, Dolly seems to refer to Subject as the Actor sometimes and uses them interchangeably even in the Passive/Receptive, so just keep that in mind that by Actor she means Subject even if it should refer to different things in the Passive where it would be the に-marked phrase instead from what I PERSONALLY researched… though I tried to be thorough with research I might have missed something but I am quite confident it is somewhat like this from what I found in the paper etc.
-As given in the paper, Actor is the Subject in the Active, but is the by-phrase in the passive (に-phrase).
-Hence, in the Passive, the Subject is NOT the Actor. Instead it is the Undergoer (Patient/Theme).
-TLDR: Actor is a generalisation term for Agent-type thematic semantic relations (Active = Subject, and in Passive = by-phrase/に phrase, just as Undergoer is for Patient-type roles (in Active = Direct Object, and in Passive = Subject). It is complex, but just bear in mind that Subject and Actor refer to different, albeit (in Active) connected things. Actor in the Passive is not marking the Subject. 
-THESE ARE NOT MY WORDS HERE, CREDIT TO MR. VAN VALIN FOR HIS WORK… 
-Furthermore this seems to be the case in Japanese too, as it is what IMABI seems to say in the Passive lesson, granted only using the term Agent, in Passive being marked by に / によって.  
-Sometimes the に can be ambiguous depending on the verb or other particles, where the doer is bound more to the verb than to れる/られる passive construction, in which case you tend to use によって to distinguish the doer from the receiver (which can still be marked by に), or you can use から for the doer.
-Such as in this example.  
----
-In ACTIVE voice these two SEMANTIC (Agent / Patient or their generalisations of Actor / Undergoer) functions are generally in the Active Voice SYNTACTICALLY expressed through Subject (Agent / Actor) and Direct Object (Patient / Undergoer), but they refer to different fields, although they are related. 
-In the Passive/Receptive, Patient is instead mostly put into the SYNTACTIC role of the Subject. 
-Their SEMANTIC roles do not change - Patient & Agent are still the same words, but their SYNTACTIC functions are changed, where Patient now becomes the Subject and Agent is put into the by-phrase, in this case に-marked phrase. In Passive/Receptive there are 2 verbs - ぬすむ and れる, ぬすむ describes れる here, れる works as a Predicate? (not too sure here, but れる is marked as a black car like が and ぬすむ as just white) to かばん which is a Subject now. 
-It seems to surprisingly fit between English and Japanese in the basic Transitive / Other-move verbs even if we should not compare them, BUT they are not identical, Japanese is much more free, widespread and logical / clear with it than English is so Japanese can use Passive / Receptive for stuff that English cannot.
-Sorry if it is a bit complex, but if you check what the terms refer to and reread it should clear up.
-But there is a special case of Passive/Receptive in Japanese that can mark かばん as を while still having a Passive/Receptive sentence, can see it right below here - the Nuisance Receptive, tho that depends) 
-If you notice ANY wrong info here, please let me know! Still, take it with a grain of salt. Again, what I am saying may not be fully accurate, I am aware of that as it depends on how well I understood it.
-The Suffering Passive / Nuisance Receptive example
-But we can also say 「さくらがだれかにかばんをぬすまれた。」
+> A normal push sentence has one verb (action) and に marks the indirect object (ultimate receiver). In a pull sentence, there are two verbs (actions) and (the base action and the receiving of that action). In this kind of sentence, に marks the doer of the action that is being received by the が-marked actor of the sentence - who is the doer of れる・られる.
+
+> The entire sentence structure is reversed. It is not a normal "push" sentence but a "pull" sentence. Instead of "giving" an action, we are receiving an action. The "other side" of a give-action is a receiver. The "other side" of a receive-action is the giver. The same happens with other kinds of "pull" or "receiving" sentences, like those using てもらう.
+
+So you see, all the particles are doing exactly what they always do. Nothing is changing here.
+
+> Note: Well, as shown above, in the Passive/Receptive it sort of changes in that they reverse their polarity. Hence why に is not “to” - receiver/”target” of action like in Active, but is now “by/from” - the doer, and が instead is the receiver of the base action (ぬすむ) via れる. It can be explained via Thematic Relations.  
+
+If you think of it as "passive conjugation", all the particles do a strange dance and seem to be doing different things from what they usually do, but if you understand it as it is - the receptive helper verb - there isn't any problem. And it all makes sense, just the way Japanese always does if you know what it's really doing.
+
+### “Nuisance Receptive/Passive”/迷惑受け身
+
+Now, there's one other area in which the receptive sometimes confuses people, and that is in the so-called "suffering passive" or "adversity passive", which is actually called in Japanese the 迷惑受け身/めいわくうけみ, which means the "nuisance receptive". And that's what it is. It's the nuisance receptive.
+
+「さくらは誰かに鞄が盗まれた。」 means "Sakura's bag got stolen by someone" or, literally, "In relation to Sakura, bag got stolen by someone". Note: Normal receptive.
+
+```
+さくらは・誰かに・鞄が・盗ま・れた。
+
+・さくらは：
+・誰かに：someone-by (target source of received action)
+・鞄が：bag
+・盗ま：stolen-
+・れた：-got (reru = receptive, not projective action)
+```
+
+> BIG note: Notice the が before a receptive-marked verb instead of a direct object を. I recommend reading THIS CHAIN about why there is が instead of を if you are not sure. Actor should mean Subject for Dolly but even that is just my guess based on when she uses it since she does not seem to explain what she really means by it, in one comment chain under this video she even calls Receptive に as “secondary actor” (which is more akin to the actual linguistic Actor…or Macrorole of Agent there) which does not help. 
+
+> VERY optional “Explanation” Note & example of my chronic rambling (or whatever lol)
+
+> This is just one of my usual linguistic ramblings that do not really matter in the grand scheme of things & are here for especially my own linguistic interest (or those who want to go more in-depth)
+
+> I am just testing/practicing how I understand stuff with this in the general sense of linguistics.
+
+> MY KNOWLEDGE IS VERY LIMITED, SO IT IS JUST ME EXPERIMENTING WITH A HYPOTHESIS.
+
+> I AM VERY AWARE WHAT I SAY MIGHT BE MISLEADING IF NOT OUTRIGHT WRONG!
+
+> Dolly obviously does not use the terms as rigidly as I will here, because it is just basic grammar so it obviously has no need to be here anyway, but for the sake of it, I will have some linguistic fun:) 
+
+> Grammar is complex, so I still have things to learn and whatnot so I will also use this to research.
+
+> Furthermore, please keep in mind that I am somewhat simplifying the Semantic roles here, that is I use the term “Agent” and “Patient”, but these are just one type and there are multiple “subtypes”, like Experiencer, Beneficiary, Goal etc. etc., but I feel it is complex enough with just Agent and Patient etc. , so keep this in mind. You can look them up in Thematic Relations for example. 
+
+> If still unclear, to my understanding, it can be explained through Semantic roles/Thematic relations. 
+
+> Mind that Syntax / Syntactic and Semantics / Semantic are two different fields and one Syntactic function (Subject etc.) can have multiple Semantic roles, especially in terms of Active vs Passive/Receptive.
+
+> It is because this is Passive/Receptive, かばん has the SYNTACTIC function of the SUBJECT (hence が marked) BUT it has the same SEMANTIC function of the PATIENT - it received the act of the (verbs) stealing/being stolen by someone. In Active voice かばん has the SYNTACTIC function of the DIRECT OBJECT but still would have the SEMANTIC function of the PATIENT. 
+
+> Thus, if we were to have かばん marked by を (Direct Object - Syntactic function), it would have to be in the Active voice (since in Passive, we tend to put the Direct Object as the Subject instead) OR, as will be shown below, it would have to be in the form of a “Nuisance Receptive” as a secondary Object connected to a secondary Verb that adds “description” info about the main part.
+
+> The term Actor that Dolly uses SHOULD mean the same as Agent as said here and here from what I found, but Dolly seems to use it here for Subject, in a way Actor should imply the one that does the action of the main verb, so I am confused what Actor means for her here, but it might be that… in which case, I get what Dolly means, tho she might be here merging the Syntactic and Semantic functions, else I misunderstood what she is implying by Actor here, since she seems to point it to the Subject which is a SYNTACTIC property, while Actor (or Agent) is a SEMANTIC property and in this sentence, in the comment she calls かばん “Actor”, かばん should be the Patient (or Undergoer to be clearer), not “Actor” as it receives the action, not doing the action of the main verb. That is to say if Actor is indeed like Agent. 
+
+> To be real, the term Actor I have seen used only rarely and it should imply Semantic function, BUT it can be used to refer to the “Semantic Macrorole” for Subject in the Active voice and by-phrase in the Passive (while Patient is the Direct Object in the Active and the Subject in the Passive, whose Macrorole is called “Undergoer”), as given here in the paper by a linguist Robert Van Valin (Van Valin, Role and Reference Grammar, 2002) on pages 1 & 3 and it points to the relationship between Semantics & Syntax.
+
+> Usually Agent (or its sub-names) are used, so it greatly confused me, but from other lessons, Dolly seems to refer to Subject as the Actor sometimes and uses them interchangeably even in the Passive/Receptive, so just keep that in mind that by Actor she means Subject even if it should refer to different things in the Passive where it would be the に-marked phrase instead from what I PERSONALLY researched… though I tried to be thorough with research I might have missed something but I am quite confident it is somewhat like this from what I found in the paper etc.
+
+> As given in the paper, Actor is the Subject in the Active, but is the by-phrase in the passive (に-phrase).
+
+> Hence, in the Passive, the Subject is NOT the Actor. Instead it is the Undergoer (Patient/Theme).
+
+> TLDR: Actor is a generalisation term for Agent-type thematic semantic relations (Active = Subject, and in Passive = by-phrase/に phrase, just as Undergoer is for Patient-type roles (in Active = Direct Object, and in Passive = Subject). It is complex, but just bear in mind that Subject and Actor refer to different, albeit (in Active) connected things. Actor in the Passive is not marking the Subject. 
+
+> THESE ARE NOT MY WORDS HERE, CREDIT TO MR. VAN VALIN FOR HIS WORK… 
+
+> Furthermore this seems to be the case in Japanese too, as it is what IMABI seems to say in the Passive lesson, granted only using the term Agent, in Passive being marked by に / によって.  
+
+> Sometimes the に can be ambiguous depending on the verb or other particles, where the doer is bound more to the verb than to れる/られる passive construction, in which case you tend to use によって to distinguish the doer from the receiver (which can still be marked by に), or you can use から for the doer.
+
+> Such as in this example.  
+
+> In ACTIVE voice these two SEMANTIC (Agent / Patient or their generalisations of Actor / Undergoer) functions are generally in the Active Voice SYNTACTICALLY expressed through Subject (Agent / Actor) and Direct Object (Patient / Undergoer), but they refer to different fields, although they are related. 
+
+> In the Passive/Receptive, Patient is instead mostly put into the SYNTACTIC role of the Subject. 
+
+> Their SEMANTIC roles do not change - Patient & Agent are still the same words, but their SYNTACTIC functions are changed, where Patient now becomes the Subject and Agent is put into the by-phrase, in this case に-marked phrase. In Passive/Receptive there are 2 verbs - ぬすむ and れる, ぬすむ describes れる here, れる works as a Predicate? (not too sure here, but れる is marked as a black car like が and ぬすむ as just white) to かばん which is a Subject now. 
+
+> It seems to surprisingly fit between English and Japanese in the basic Transitive / Other-move verbs even if we should not compare them, BUT they are not identical, Japanese is much more free, widespread and logical / clear with it than English is so Japanese can use Passive / Receptive for stuff that English cannot.
+
+> Sorry if it is a bit complex, but if you check what the terms refer to and reread it should clear up.
+
+> But there is a special case of Passive/Receptive in Japanese that can mark かばん as を while still having a Passive/Receptive sentence, can see it right below here - the Nuisance Receptive, tho that depends) 
+
+> If you notice ANY wrong info here, please let me know! Still, take it with a grain of salt. Again, what I am saying may not be fully accurate, I am aware of that as it depends on how well I understood it.
+
+### The Suffering Passive / Nuisance Receptive example
+
+But we can also say, 「さくらが誰かに鞄をぬすまれた。」
+
 This is the nuisance receptive. 
 
-So what's happening here? The が marked actor is now Sakura, isn't it? She is the one who does the receiving. Note this:
+```
+さくらが誰かに鞄をぬすまれた。
 
-So what does this sentence mean in English? Very simple: 
+・さくらが：Sakura
+・誰かに：someone-by
+・鞄を：bag
+・盗ま；stolen-
+・れた；-got
+
+Nuisance Receptive describes ourselves as receivers of negative acions.
+Core is now さくらがれた："Sakura got"
+```
+
+So, what's happening here? The が marked actor is now Sakura, isn't it? She is the one who does the receiving. Note this:
+
+@Cure Dolly:
+
+> In any receptive sentence, the が-marked actor is the person doing れる・られる because that is the last verb in the sentence and therefore the lead verb - the one that corresponds to the が-marked A-Car. 
+
+> So what does this sentence mean in English? Very simple: 
+
 "Sakura got her bag stolen". That's what we say in English; our old English teacher might not like it, but we say it in English, it makes sense in English, and it's exactly what we say in Japanese. "Sakura got her bag stolen by someone." 
+
 So, you can see that there is in fact no problem, no difficulty, no confusion about the receptive helper verb, just so long as you know that it is a receptive helper verb and not something else.
-Note: Again, this will likely be VERY hard to fully grasp, so I recommend also reading through the comments under the video. There are quite a few (other) very interesting answers by Dolly.
-Do not worry if it is too tough to fully grasp now, you will grasp the Passive/Receptive fully when you input and immerse in Japanese a lot, it will all clear up eventually on its own the more you consume. This is just to give the basic idea about it through Dolly’s basic explanation.
+
+> Note: Again, this will likely be VERY hard to fully grasp, so I recommend also reading through the comments under the video. There are quite a few (other) very interesting answers by Dolly. Do not worry if it is too tough to fully grasp now, you will grasp the Passive/Receptive fully when you input and immerse in Japanese a lot, it will all clear up eventually on its own the more you consume. This is just to give the basic idea about it through Dolly’s basic explanation.
