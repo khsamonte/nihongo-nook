@@ -205,6 +205,22 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Games",
+          "url": "/transcripts/games",
+          "children": [
+            {
+              "name": "Final Fantasy VIII",
+              "url": "/transcripts/games/final-fantasy-viii",
+              "children": [
+                {
+                  "name": "バラムガーデン　オープニングイベント",
+                  "url": "/transcripts/games/final-fantasy-viii/1"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
