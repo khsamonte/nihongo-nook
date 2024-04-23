@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/nihongo-nook/static/css/main.c1aae2a5.css",
-    "main.js": "/nihongo-nook/static/js/main.215fea54.js",
+    "main.js": "/nihongo-nook/static/js/main.e3547001.js",
     "static/media/NotoSansJP-Regular.otf": "/nihongo-nook/static/media/NotoSansJP-Regular.bf5d4bac33520179a841.otf",
     "static/media/NotoSansJP-Light.otf": "/nihongo-nook/static/media/NotoSansJP-Light.1b2ce4fd33d26f3d8121.otf",
     "index.html": "/nihongo-nook/index.html",
     "main.c1aae2a5.css.map": "/nihongo-nook/static/css/main.c1aae2a5.css.map",
-    "main.215fea54.js.map": "/nihongo-nook/static/js/main.215fea54.js.map"
+    "main.e3547001.js.map": "/nihongo-nook/static/js/main.e3547001.js.map"
   },
   "entrypoints": [
     "static/css/main.c1aae2a5.css",
-    "static/js/main.215fea54.js"
+    "static/js/main.e3547001.js"
   ]
 }
