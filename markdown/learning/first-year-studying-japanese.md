@@ -140,7 +140,7 @@ These are the things I would tell myself a year ago.
 
 ・Output is important, but output can wait. I believe there is some truth in getting enough input first before starting your output. I only started immersion less than four months ago, but when I'm practicing speaking at my current level, the words are beginning to come out much more naturally than ever.
 
-・This point will be fringe and inarticulate, so take it with a grain of salt. Some people will be much better at output at a much earlier stage, but I like to think they're exceptionally talented. My patterns of output are much more "emulative" they are "creative" in that, my speaking feels way more natural when I "imitiate" other people's speaking rather than creating sentences in my own mind before saying them. I feel the exact same way with English, which is why my speaking output came much later than my writing output.
+・This point will be fringe and inarticulate, so take it with a grain of salt. Some people will be much better at output at a much earlier stage, but I like to think they're exceptionally talented. My patterns of output are much more "emulative" than they are "creative" in that, my speaking feels way more natural when I "imitiate" other people's speaking rather than creating sentences in my own mind before saying them. I feel the exact same way with English, which is why my speaking output came much later than my writing output.
 
 ・Technology has immensely facilitated the study of languages, and we are very fortunate to be living in modern times. Take the time to learn how to use them as early as possible. 
 
