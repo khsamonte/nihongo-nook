@@ -106,7 +106,7 @@ Back:
 * ・Sample sentence for context
 * ・Audio of the sample sentence (might drop this in the future)
 
- I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) with a 90% retention rate and this has worked well for me. I can see myself continuing using Anki perhaps in the next year until I attain a good amount of vocab, but I think I will eventually discontinue using it.
+My current setting is 10 new cards/day, but I'm thinking of increasing it to 15 soon. I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) with a 90% retention rate and this has worked well for me. I can see myself continuing using Anki perhaps in the next year until I attain a good amount of vocab, but I think I will eventually discontinue using it.
 
 ## Present
 
