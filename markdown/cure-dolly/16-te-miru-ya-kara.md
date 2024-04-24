@@ -1,6 +1,6 @@
 こんにちは。
 
-Today we're going back to Alice, and we're going to be using quite a lot of trains this time because I want us to really grasp the structure of these sentences.
+Today, we're going back to Alice, and we're going to be using quite a lot of trains this time because I want us to really grasp the structure of these sentences.
 
 So, if you remember from last time, Alice had just entered the rabbit hole and quite surprisingly she finds herself falling very slowly down a vertical hole.
 

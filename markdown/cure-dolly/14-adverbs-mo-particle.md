@@ -195,6 +195,15 @@ We can form an adverb from an adjective by simply using its く-stem.
 
 And we form an adverb from a noun by adding に. 
 
+```
+Noun → Adverb
+静かな夜 = quiet night
+静かに歩く = walk quietly
+
+Just add に
+That's all!
+```
+
 And this works with some regular nouns and pretty much all adjectival nouns. 
 
 So, 急 means "sudden" or "abrupt"; 急に means "suddenly". 
@@ -203,13 +212,13 @@ So, 急 means "sudden" or "abrupt"; 急に means "suddenly".
 
 So, the entire sentence:
 
-ウサギは早く走って、急にウサギの穴にとび込んだ
++ ウサギは早く走って、急にウサギの穴にとび込んだ
++ Rabbit-as-for, fast(ly) ran-and- -sudden(ly) rabbit's-hole-in jumped-into.
++ (The rabbit ran fast and suddenly jumped into a rabbit-hole.)
 
-(The rabbit ran fast and suddenly jumped into a rabbit-hole.)
-
-アリスもウサギの穴にとび込んだ
-
-(Alice also jumped into the rabbit-hole.)
++ アリスもウサギの穴にとび込んだ
++ Alice-also rabbit's-hole-in jumped-into.
++ (Alice also jumped into the rabbit-hole.)
 
 ### The も particle
 
@@ -302,7 +311,7 @@ And this means "But surprisingly she fell very very slowly".
 
 ---
 
-But, as we've seen with Japanese adjectives of emotion and desire, with things that describe emotion and desire, in Japanese they shift very easily from the thing that experiences the emotion to the thing that causes the emotion and back.
+But, as we've seen with Japanese adjectives of emotion and desire, with things that describe emotion and desire, in Japanese, they shift very easily from the thing that experiences the emotion to the thing that causes the emotion and back.
 
 So "驚いたこと" here doesn't mean a "surprised thing", it means a "surprising thing". 
 
@@ -335,5 +344,3 @@ So, "驚いたことにゆっくりゆっくり落ちた" – "But surprisingly 
 So, once again, we've gone through the story a little more rapidly than the first time, and we've learned quite a lot.
 
 >> Note: This is where Dolly fully incorporates Kanji into her lessons, also due to people requesting it, as indeed, once you embrace Kanji, Japanese text without it is truly a headache to read, let alone to comprehend. Do not be scared or hostile to Kanji, they are your friends, believe me.
-
->> Both Yomichan (did not use to work, but it works again in the newest version) and Rikaichamp work here, so Kanji should not pose any real issue for you, as far as reading them goes. 
