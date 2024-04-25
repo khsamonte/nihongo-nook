@@ -106,3 +106,15 @@ Rabbit as for, run-broke out
 ・という：that
 ・理論だ：-theory-is-
 ```
+
+```
+世の中には、絶対にお客様を裏切ってはいけない仕事が２つあります。
+
+・世の中には：society/world-in
+・絶対に：absolutely
+・お客様を：customers
+・裏切ってはいけない：must-not-betray
+・仕事が：work/job
+・２つ：two
+・あります：-there-are
+```
