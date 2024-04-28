@@ -118,3 +118,18 @@ Rabbit as for, run-broke out
 ・２つ：two
 ・あります：-there-are
 ```
+
+```
+その放射線を感知して毒ガスを発生する装置を一緒に入れておく。
+
+・その：that
+・放射線を：radiation
+・感知して：detect-and-
+・毒ガスを：poison-gas
+・発生する：generate-
+・装置を：equipment/device
+・一緒に：together (with)
+・入れておく：-put-in-advance
+
+
+```
