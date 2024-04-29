@@ -28,6 +28,9 @@ const properNouns = {
 			"江ノ電",
 			"藤沢",
 			"七里ヶ浜",
+			"岐阜",
+			"大垣",
+			"神奈川",
 		],
 	},
 	"bartender-kami-no-glass": {
