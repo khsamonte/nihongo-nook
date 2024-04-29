@@ -1,6 +1,10 @@
+##### Ken Samonte | April 30, 2024
+
 ## Background
 
 Hi. I'm a 30-year-old full-time programmer from the Philippines. I started studying Japanese exactly one year ago, on April 30th, 2023, when I attended my first online class in a language school. Prior to that, I had been learning on Duolingo at a very relaxed pace, so I knew how to read Hiragana and Katakana. I am presently bilingual with Tagalog as my native language (NL) and a C1 Level of proficiency in English.
+
+The phonetics of Japanese and Tagalog are very similar since they are both _syllable-timed_ languages, whereas English is a _stress-timed_ language, so its pronunciation was much easier to digest for me. 
 
 ## Timeline
 
@@ -34,7 +38,7 @@ I took my [JLPT](https://www.jlpt.jp/e/index.html) N5 exam on December 3rd and a
 
 ### Immersion
 
-At the start of 2024, I started hearing about [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) and [comprehensible input](https://www.sk.com.br/sk-krash-english.html) ([i+1](https://www.sk.com.br/sk-krash-english.html)). I became aware of [AJATT (All Japanese All The Time)](https://tatsumoto-ren.github.io/blog/whats-ajatt.html) methods, which discarded traditional textbook learning and endorsed single-handedly relying on intensive immersion to learn a language, paired with building your own flashcard deck on Anki, which utilizes spaced repetition.
+At the start of 2024, I started hearing about [immersion](https://refold.la/simplified/stage-0/a/what-is-immersion) and [comprehensible input](https://www.sk.com.br/sk-krash-english.html) ([i+1](https://www.sk.com.br/sk-krash-english.html)). I became aware of [AJATT (All Japanese All The Time)](https://tatsumoto-ren.github.io/blog/whats-ajatt.html) methods, which discarded traditional textbook learning and endorsed single-handedly relying on intensive immersion to learn a language, paired with building your own flashcard deck on [Anki](https://apps.ankiweb.net/), which utilizes spaced repetition.
 
 However, I don't subscribe to their extreme methods because they require a good amount of linguistic intuition which I don't have, and I am fully aware that the level of intensity they demand will burn me out. I also believe that textbooks are also helpful to an extent.
 
@@ -58,10 +62,10 @@ Free-Flow Immersion:
 
 Active Immersion:
 
-+ ２）In particularly interesting episodes/videos, strip the audio via torrent or converters, trim out the unnecessary parts using audio software (e.g. Audacity), and transfer the refined audio file to a phone.
-+ ３）Generate the transcript from the subtitles using Language Reactor.
++ ２）In particularly interesting episodes/videos, strip the audio via torrent or converters, trim out the unnecessary parts using [audio software](https://www.audacityteam.org/), and transfer the refined audio file to a phone.
++ ３）Generate the transcript from the subtitles using [Language Reactor](https://www.languagereactor.com/).
 + ４）Study each line and sentence intensively by looking up the definition of each new word and try to make sense of the sentence from its context.
-+ ５）Add one flashcard to the Anki Japanese deck for every new unknown word that I find useful to learn.
++ ５）Add one flashcard to the [Anki](https://apps.ankiweb.net/) Japanese deck for every new unknown word that I find useful to learn.
 
 Passive Immersion: 
 
@@ -79,7 +83,7 @@ My point is - my immersion methods bring me a tremendous amount of joy, and I st
 
 ### Cure Dolly's Organic Japanese
 
-I discovered [Organic Japanese with Cure Dolly](), which is arguably the best online lesson structure existing to get a crystal-clear understanding of Japanese grammatical foundations. I tried [Tae Kim's Guide]() but I find Cure Dolly to be far more effective. The reason for this is that she teaches Japanese grammar and its nuances in the context of Japanese. (For instance, some school textbooks were obviously written in the context of English (and even Filipino) subtleties.)
+I discovered [Organic Japanese with Cure Dolly](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit), which is arguably the best online lesson structure existing to get a crystal-clear understanding of Japanese grammatical foundations. I tried [Tae Kim's Guide](https://guidetojapanese.org/learn/complete/) but I find Cure Dolly to be far more effective. The reason for this is that she teaches Japanese grammar and its nuances in the context of Japanese. (For instance, some school textbooks were obviously written in the context of English (and even Filipino) subtleties.)
 
 Cure Dolly's lessons, along with my daily flashcard reps, serve only as a supplemental aid to my immersion, which is my primary method of study.
 
@@ -91,33 +95,43 @@ If you're after simple vocabulary, I would argue that alternatives more befittin
 
 ### Anki
 
-I just use a single deck that has all the Japanese words, phrases, and grammar patterns I want to learn. I treat Anki as nothing but vocabulary (Kanji) drills. I find sentence cards extremely time-consuming for beginners, and I hugely prefer doing sentence analysis during my active/free-flow immersion.
+I just use a single deck that has all the Japanese words, phrases, and grammar patterns I want to learn. I have two types of cards:
 
-My card format is:
++ １）Vocab Cards: The Kanji of the word in front. This comprises about 90% of my cards.
++ ２）Word-Highlighted Sentence Cards: For words with multiple definitions, I use sentences with the target word highlighted in front. This comprises about 10% of my cards.
 
-Front:
+This is the back template of my card:
 
-* ・Kanji of the word
++ ・Furigana of the vocab
++ ・Meaning of the word (English or Tagalog definition)
++ ・Sample sentence for context (no Furigana)
 
-Back:
+I treat Anki as nothing but vocab drills. With the Kanji in front, I try to guess the meaning and the reading of the word.
 
-* ・Furigana of the word
-* ・Meaning of the word (English definition)
-* ・Sample sentence for context
-* ・Audio of the sample sentence (might drop this in the future)
++ Word: 飛行機
++ Reading: ひこうき (hikōki)
++ Meaning: airport
 
-My current setting is 10 new cards/day, but I'm thinking of increasing it to 15 soon. I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) with a 90% retention rate and this has worked well for me. I can see myself continuing using Anki perhaps in the next year until I attain a good amount of vocab, but I think I will eventually discontinue using it.
+I prefer learning the Kanji of new words straight away because knowing only the meaning and the Kana of a word feels like a sluggish way to learn new vocab to me. And since single Kanji characters can have the same readings, as your vocabulary grows, it will be easier to remember other words and their readings because some of the Kanji will already be familiar.
+
+I should note that I have no knowledge of the _onyomi_ and _kunyomi_ classifications of Kanji readings; if this is your preferred way of learning, however, by all means go ahead. It was uncomfortable to try memorizing so much Kanji in the beginning, so I started with 10 new cards/day before gradually increasing it to 20, which is my current setting.
+
+I use the [FSRS algorithm](https://github.com/open-spaced-repetition/fsrs4anki) with a 90% retention rate and this has worked well for me. I can see myself continuing using Anki perhaps until I attain a good amount of vocab, but I think I will eventually discontinue using it (once I'm around B2 level maybe).
 
 ## Present
 
 ### Current routine:
 
-+ ・Dedicating most of my free time to consuming Japanese content with the immersion method I mentioned in a few paragraphs above. 
-+ ・Eliminated Kanji rote writing from my routine altogether. Writing is effective for some people - I'm just not one of them. I find mnemonics to be more effective, but I don't spend a lot of time thinking about that.
-+ ・Eliminated translation drills.
-+ ・Finishing my daily Anki flashcards in the morning (~30 minutes).
-+ ・Free-flow listening immersion during 2.5 hours of commute and passive listening at work.
++ ・Waking up at 7:00 AM to complete my daily Anki flashcards (30 to 45 minutes) before getting up.
++ ・Dedicating most of my free time to consuming Japanese content with the active immersion method I mentioned in a few paragraphs above.
++ ・Free-flow listening immersion during 2-2.5 hours of commute and passive listening at work (during menial tasks only).
 + ・Chatting and talking in Japanese to my girlfriend (she is N2-level). お互いから学んでいます。
+* ・Studying at least one new grammar pattern a day via [Cure Dolly](https://docs.google.com/document/d/1XpuXerkGU8waJ4DPDNJA4bGeqOvM-csXjTe57iHARHc/edit) or [Nihongo Kyoshi JLPT Grammar](https://nihongokyoshi-net.com/jlpt-grammars/).
+* ・Occasionally answering entire [JLPT Listening Sets]() without pauses to simulate test-taking environments, and also studying listening sets that are one level above me as advanced conditioning.
+
+Stuff I no longer do:
+
++ ・Eliminated Kanji rote writing from my routine altogether. Writing is effective for some people - I'm just not one of them. I find mnemonics to be more effective, but I don't spend a lot of time thinking about that.
 
 ### An honest rating of my present skills:
 
@@ -142,12 +156,22 @@ These are the things I would tell myself a year ago.
 
 ・This point will be fringe and inarticulate, so take it with a grain of salt. Some people will be much better at output at a much earlier stage, but I like to think they're exceptionally talented. My patterns of output are much more "emulative" than they are "creative" in that, my speaking feels way more natural when I "imitiate" other people's speaking rather than creating sentences in my own mind before saying them. I feel the exact same way with English, which is why my speaking output came much later than my writing output.
 
+・I initially thought I would never attain my current level of fluency in English. I thought of myself as an eloquent writer during my formative years, but my pieces were quite unnatural (since I hardly spoke the language). I learned how to write much more organically by speaking a lot more - it's true when they say that anybody who could talk could also write.
+
 ・Technology has immensely facilitated the study of languages, and we are very fortunate to be living in modern times. Take the time to learn how to use them as early as possible. 
 
 ## Future Plans
 
 ・**Start reading novels.** As someone who voraciously reads English content and heavily prefers ebooks over audiobooks, reading Japanese content presently bores me. I am not as enthusiastic when it comes to reading materials as I am when listening to audio material while reading the transcript/subtitles, but I cannot deny the effectiveness and importance of reading. For my second year, I plan to indulge in light novels from start to finish and then listen to their respective audiobooks repeatedly.
 
-・**Integrate output to my everyday life.** Tagalog is my native language, but I grew up being exposed to English media. I was already heavy into writing short stories before I started reading books when I was young, but it took me several years to be as good at speaking the language as I am at writing. I initially thought my current level of fluency in English was unattainable, especially speaking-wise. With Japanese, it feels the same: I can hold a conversation through chat, but my speaking skills are far inferior. I will post about my methods next year.
+・**Watch native-level Japanese content without Japanese subtitles.** Native-level Japanese dialogue without the aid of Japanese subtitles is a different behemoth in itself. As someone who's dependent on English subtitles when watching English media, this will probably be the most difficult aspect of input.
+
+・**Integrate output to my everyday life.** I will probably start writing Japanese essays every day for a few months, but I'm still figuring out a sustainable approach. I will post about my methods next year once I figure them out.
+
+・**Study Kansai dialect.** My girlfriend currently lives in the Kansai Region, so the specific domain of Kansai dialect is one of our top choices among other language specializations. Moreover, I think only a small minority of Japanese learners pay attention to the Kansai dialect.
 
 ・**My ultimate goal is C1 level: conversational fluency and university-level literacy.** I have no delusions that it will take me a very long time to attain this - five years or more, at the very least. It may even take me an entire lifetime. Language learning is tough, but I am pleased with my current progress.
+
+## Simple Demonstration
+
+皆さん、こんにちは。ケンと申します。今年の12月で31歳になります。去年の春、大阪と奈良に行ってきれいな桜を見えました。9月で日本に戻って彼女と会いに行ってバスで22時から午前８時まで河口湖に行きました。河口湖から富士山を見えました。
