@@ -23,8 +23,8 @@ html {
 }
 
 body {
-	background: #242525;
-	color: #d6d0c6;
+	background: rgb(11, 7, 22);
+	color: #fff;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
 		"Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
 		sans-serif;

@@ -62,12 +62,12 @@ const SiteContent = styled.div`
 
 	@media screen and (max-width: 1024px) {
 		flex-direction: column-reverse;
-		padding: 5.5em 2.5em;
+		padding: 5.5em 1.5em;
 	}
 
 	@media screen and (max-width: 480px) {
 		/* font-size: 14px; */
-		padding: 5.5em 1.5em;
+		padding: 5.5em 0.5em;
 	}
 `;
 
