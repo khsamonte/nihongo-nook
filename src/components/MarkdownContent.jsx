@@ -101,7 +101,6 @@ const MarkdownContainer = styled.div`
 		font-size: 1.25em;
 		font-weight: 400;
 		margin: 0 0 1.5em;
-		letter-spacing: 1px;
 		line-height: 2em;
 		list-style: none;
 	}
