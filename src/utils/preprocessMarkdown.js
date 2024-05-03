@@ -93,6 +93,9 @@ const properNouns = {
 			"四国",
 			"熱海",
 			"ヤマト運輸宅急便",
+			"沖縄",
+			"千葉",
+			"北海道",
 		],
 	},
 	"naoko-daily-japanese": {
