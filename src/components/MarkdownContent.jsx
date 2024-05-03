@@ -96,13 +96,26 @@ const MarkdownContainer = styled.div`
   }
 
   p,
-  ul {
+  ul,
+  ol {
     font-family: "NotoSansJP-Regular";
     font-size: 1.25em;
     font-weight: 400;
     margin: 0 0 1.5em;
     line-height: 2em;
+  }
+
+  ul {
     list-style: none;
+  }
+
+  ol {
+    list-style-type: decimal;
+    margin-left: 1em;
+  }
+
+  ol li::marker {
+    color: rgb(239, 132, 75);
   }
 
   table {

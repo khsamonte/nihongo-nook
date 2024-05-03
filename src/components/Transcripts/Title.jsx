@@ -89,7 +89,8 @@ const StructureContainer = styled.div`
   }
 
   p,
-  ul {
+  ul,
+  ol {
     font-size: 1em;
     line-height: 1.5em;
   }
