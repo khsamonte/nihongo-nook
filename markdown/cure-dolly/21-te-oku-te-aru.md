@@ -247,8 +247,8 @@ Note: This can be a bit tricky (judging also by the sheer amount of concentrated
 
 ### Comments
 
-@CureDolly (on ておく vs てある):
-
+> @CureDolly (on ておく vs てある):
+> 
 > 〜ておく and 〜てある are indeed related. But the important thing to understand is that they are *the opposite sides of the same coin* - they are not the same side so it is important not to confuse them. Let me explain.
 > 
 > 〜てある is, a *stative* verbal expression. This means that it expresses a state, not an action (this is always true of ある). And the state that it expresses is the *state resulting from the equivalent ておく expression*.
@@ -259,8 +259,8 @@ Note: This can be a bit tricky (judging also by the sheer amount of concentrated
 >
 > Does this make it clear?
 
-@CureDolly (on readers' and learners' translations):
-
+> @CureDolly (on readers' and learners' translations):
+> 
 > Yes, the distinction between readers' translations and learners' translations is very important. If you are actually translating an anime or manga for the general public "I like coffee" is correct and translating receptive sentences into the English passive is also correct in a large number of cases - "correct" meaning making the characters use natural English and say something close to what the original text said. Of course how far one should go in making Japanese characters talk as if they were American characters is a creative decision. To some extent it is inevitable - and it is interesting to see that two different translations are rarely the same. In more extreme cases a character is almost remolded to be more like who she would be if she had been born in America.
 > 
 > But that is really a whole different point. I am always surprised by how textbooks etc. present these loose translations to learners as if they were what the words were actually saying. It is really so unhelpful and sows problems that just get deeper as they go along.
@@ -269,8 +269,8 @@ Note: This can be a bit tricky (judging also by the sheer amount of concentrated
 > 
 > I would recommend learners not to worry too much about keigo (there are two other forms as well as kenjougo, all used together) - even Japanese people can have trouble with it. The heroine in Fruits Basket uses keigo all the time and gets it wrong all the time (a part of her character that I imagine can't help getting lost in translation!) No one will ever expect you to use it (unless you work for a Japanese company). People in customer service situations will use it toward you and you will encounter it in anime etc, so we do need to cover it when we have the basics firm, but luckily it is much easier to understand than to use correctly. It isn't really that difficult to use but it will take a few lessons to get a handle on it. And we'll definitely do that!
 
-@CureDolly (on 上 vs 中):
-
+> @CureDolly (on 上 vs 中):
+> 
 > That's a very good question.. The text just says  へ, which is a little unusual being the "direction" rather than the strict "target" particle (though they overlap considerably), probably because she was passing by and had to reach toward it rather than calmly place it (this is also implied by うまく, since there is no skill in just putting something on or in a cupboard under normal circumstances). So essentially I would say that we don't know for sure. It is very possible to specify either とだなの中に or とだなの上に. One could argue that since putting something on top of a cupboard is unusual and nothing was specified one should assume the normal action. On the other hand that would have involved opening the cupboard in passing, putting in the jar, and ideally closing it again. Was she falling slowly enough for that? I think we have to conclude that the text doesn't tell us.
 
 @CureDolly (on 々):
