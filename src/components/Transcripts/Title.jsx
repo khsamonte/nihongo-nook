@@ -104,6 +104,9 @@ const StructureContainer = styled.div`
     font-size: 1em;
     font-weight: 400;
   }
+  blockquote {
+    color: violet;
+  }
 `;
 
 export default Title;

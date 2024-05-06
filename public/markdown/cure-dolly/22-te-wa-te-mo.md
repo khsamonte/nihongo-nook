@@ -1,141 +1,302 @@
+こんにちは。
 
-Subtitle
-Konnichiwa.
-Today, we're going to go back and cover that little bit of Alice that we skipped last week
-and that's going to give us the opportunity to look at
-the te-form plus -wa and the te-form plus -mo and some other things too.
-So we're going to return to the point where Alice had just taken the marmalade jar off the shelf.
-"Demo, bin-wa karappo datta" – "But the jar was empty".
-"Kara" means "empty", and you can see it has the kanji for "sky",
+Today, we're going to go back and cover that little bit of Alice that we skipped last week, and that's going to give us the opportunity to look at the て-form + は and the て-form + も and some other things too.
+
+So, we're going to return to the point where Alice had just taken the marmalade jar off the shelf.
+
+"でも, びんは空っぽだった" – "But the jar was empty".
+
+"空/から" means "empty", and you can see it has the kanji for "sky"
+
+> @Mordraug:
+> 
+> (空 as sky is read そら),
+
 which I guess is the biggest empty space in this world.
-"Kara" – "empty" – is the "kara" in "karate", which is the art of fighting with empty hand, without any weapon.
-"Karappo" is a kind of strengthening of "empty", meaning
-there was nothing in it, it was completely empty.
-And "karappo" works as a noun, and generally speaking if you don't know what kind of word
-a word is in Japanese, it's most likely to be a noun.
-Japanese is quite a noun-centered language,
-because all the words that come in from other
-languages like Chinese, of which there are a huge amount, and English,
-and other languages too come in as nouns.
-You can turn them into verbs by putting "suru" after them;
-you can turn them into adjectives with -no and -na.
-But fundamentally they're nouns.
-So it's always a good guess when you don't know what a word is, that it's quite likely to be a noun.
-"Karappo" is a noun, "empty".
-"Demo, bin-wa karappo datta" – "However, the jar was empty".
-"Arisu-wa karappo-no bin demo shita-he otoshite-wa warui-to omotta."
-Here again, we're going to see some other uses of the te-form.
-First of all, "Arisu-wa karappo-no bin demo".
-Now -de here is the te-form of "da" , and -mo, as we
-know, is the additive, inclusive sister of -wa:
-the additive, inclusive non-logical topic-marking particle.
-So, "karappo-no bin demo".
-"De", te-form of "desu", is "it was (an empty jar)" – and
-"demo" means "even though it was (an empty jar)".
--Mo can be used to mean "as much as" –
-"ichiman en-mo kakatta" – "it took as much as 10,000 yen / cost as much as 10,000 yen") –
-"Demo" means something like "as much as it was (an empty jar)/
-even though it was (an empty jar)".
-And I've done a video on these uses of -mo that you may want to watch.
-And we also use this "-te-mo" form when asking for permission, don't we?
-"Keeki-wo tabete-mo ii?"
-– "Is it all right if I eat the cake?/May I eat the cake?"
+
+"空" – "empty" – is the "から" in "空手", which is the art of fighting with empty hand, without any weapon.
+
+"空っぽ" is a kind of strengthening of "empty", meaning there was nothing in it, it was completely empty.
+
+And "空っぽ" works as a noun, and generally speaking, if you don't know what kind of word a word is in Japanese, it's most likely to be a noun.
+
+```
+Non-Japanese Origin
+
+They're all nouns when they come off the boat
+
+勉強 - Study (noun)
+自由 - Freedom (noun)
+丁寧 - Courtesy (noun)
+```
+
+Japanese is quite a noun-centered language, because all the words that come in from other languages like Chinese, of which there are a huge amount, and English, and other languages too come in as nouns.
+
+You can turn them into verbs by putting "する" after them; you can turn them into adjectives with の and -な.
+
+```
+Non-Japanese origin
+
+Addeed kana makes them other things
+
+勉強する - Study (verb)
+自由な - Free (adjectival)
+丁寧に - Politely (adverbial)
+```
+
+But fundamentally they're nouns. So it's always a good guess when you don't know what a word is that it's quite likely to be a noun.
+
+"空っぽ" is a noun, "empty".
+
+"でも, びんは空っぽだった" – "However, the jar was empty".
+
+"アリスは空っぽのびんでも下へ落としては悪いと思った."
+
+Here again, we're going to see some other uses of the て-form.
+
+### でも / ても
+
+First of all, 
+
+"アリスは空っぽのびんでも".
+
+Now, で here is the て-form of "だ", and も, as we know, is the additive, inclusive sister of は: the additive, inclusive non-logical topic-marking particle.
+
+So, "空っぽのびんでも".
+
+```
+This is a complete logical clause subordinate to the overall sentence.
+(Alice is not in this map: she belongs to the later [comment] clause)
+
+・(０が)：it (A)
+・空っぽの：empty
+・びんで：jar-is (B)
+・も：as-much-as (topic)
+
+て-form + topic marker bundle preceding clause into a topic requiring a comment
+Whole clause = "Even though it is an empty jar..."
+```
+
+"で", て-form of "です", is "it was (an empty jar)" – and "でも" means "even though it was (an empty jar)". 
+
+も can be used to mean "as much as" – "一万円もかかった" – "it took as much as 10,000 yen / cost as much as 10,000 yen") 
+
+"でも" means something like "as much as it was (an empty jar) / even though it was (an empty jar)".
+
+And I've done a video on these uses of も that you may want to watch.
+
+And we also use this "-ても" form when asking for permission, don't we?
+
+"ケーキを食べてもいい?" – "Is it all right if I eat the cake? / May I eat the cake?"
+
 Literally, "If I go as far as to eat the cake, will that be all right?"
-"Karappo-no bin demo shita-he otoshite-wa warui-to omotta".
-"Otosu" means to "drop".
-It's another one of our self-move/other-move pairs.
-"Ochiru" means to "fall" – that's self-move: a thing falls, by itself.
-"Otosu", which ends in -su, according to the first law of self-move/other-move verbs, so
-it means "drop": we don't drop ourselves, we drop something else.
-"Shita-he" : now, -he, as we know, is the other targeting particle.
-It's very similar to -ni, but the difference is that -he tends to refer more to the direction
-something is moving than to its actual target.
-So in this particular case, "shita-ni otosu" wouldn't be right.
-We're not saying that we're dropping it to a particular target, like "teeburu-no shita"
-– the under of the table/under the table.
-We're just dropping it downwards, dropping it in a downward direction.
-We don't even know what's down there.
-She did try looking and she couldn't see much.
-So dropping it in the direction of down – "shita-he otosu".
-Now, "shita-he otoshite-wa warui".
-Now here you see, we've just had te-form plus -mo; now we have te-form plus -wa.
-And we know that -mo and -wa are the opposite twins.
-While -mo is the additive, including particle, -wa is the subtractive, excluding particle.
-So, while -te-mo means "as much as", -te-wa means "as little as".
-Now, we tend to use -te-mo in positive contexts –
-"If I do as much as this, will it be all right?"
-But we use -te-wa in negative, forbidding contexts – "don't even do as little as that".
-So we often say, "-te-wa dame" – "do that is no good/do that is bad".
-In this case, it's very similar: "otoshite-wa warui" –
-"even as little as dropping it would be bad".
-The point isn't really that dropping it is a small thing, or that eating the cake is a big thing.
-The point is that we can go as far as eating the cake, that's fine, but don't even think
-about dropping it: "otoshite-wa warui" – doing that is right out of the question.
-Very often this forbidding -te-wa is just contracted to -cha.
-Now this pattern continues into other uses of -te-wa.
-For example, we can use -te-wa as a connector between two clauses and it implies that the
-second clause is unwanted or negative.
-So we can say, "ame-ga futte-wa kouen-ni ikenai" – "It's raining and we can't go to the park".
-Now, as we know, -te can connect two sentences and if we just said, "ame-ga futte kouen-ni ikenai"
-we're saying – "It's raining and we can't go to the park".
-There's an implication that we can't go to the park because it's raining but there's
-no suggestion of whether we're happy or unhappy with the result.
-"Ame-ga futte-wa kouen-ni ikenai" is indicating that the result is unpleasant or unwanted.
-And you can see that this does have its root in the restrictive quality of -wa.
-For example, in English we might say, "Just because it's raining, we can't go to the park"
-and this is exactly what -wa means, doesn't it?
-If we say "pan-wo tabeta", we're saying "I ate bread", but
-if we say, "pan-wa tabeta" that often implies I ate bread but I didn't eat something else.
-Conversely, if we say, "pan-wo tabenakatta", we're saying "I didn't eat bread";
-if we say "pan-wa tabenakatta", we're often implying I didn't eat bread, but I did eat something else.
-"Ame-ga futte-wa kouen-ni ikenai" originally could imply something like "Just because it's
-raining, we can't go to the park", but now its implication is more "Unfortunately, because
-it's raining, we can't go to the park".
-"Imouoto-to kenka shite-wa haha-ni shikara-reta"
-– "Because I quarrelled with my sister, I got scolded..."
-And again, the -wa in there indicates that this is a negative result.
-So it links two complete clauses with the indication that the second one follows as
-an unfortunate result from the first one.
-So this is a continuation of the negative implication of -te-wa.
--Te-mo, on the other hand, when it links two sentences, doesn't indicate a negative result
-or a positive result.
-It indicates an unexpected or contrasting result to the first.
-So if we said, "ame-ga futte-mo, kouen-ni iku", we're saying "Even though it is raining,
-we're going to the park".
-And you can see that this is essentially the same function as "demo", which gets translated
-as "but", quite correctly.
-"Demo" folds up whatever went before it into that "de", which is the te-form of "da".
-So we're saying "that all happened" and the -mo then adds to it the "but" element,
-the "even though", "as much as" element.
-So we could also say, "ame-ga furu demo kouen-ni iku", which means almost exactly the same
-as "ame-ga futte-mo, kouen-ni iku".
-The difference structurally is that in "ame-ga futte-mo", the -te-mo only attaches to "furu",
-whereas in "ame-ga furu demo" the -de is wrapping up the whole of the last sentence.
-In practice that gives us pretty much the same meaning.
-So let's just go back to that sentence in Alice and see how it's structured.
-It's a little more complex than it looks at first, but it's very easy to understand.
-And if we can understand it it gives us the key to analyzing much more complex sentences
-which could give us trouble in the future.
+
+"空っぽのびんでも下へ落としては悪いと思った".
+
++ ・"落とす" means to "drop". It's another one of our self-move/other-move pairs.
++ ・"落ちる" means to "fall" – that's self-move: a thing falls, by itself.
++ ・"落とす", which ends in -す, according to the first law of self-move/other-move verbs, so it means "drop": we don't drop ourselves, we drop something else.
++ ・"下へ" : now, -へ, as we know, is the other targeting particle. It's very similar to に, but the difference is that -へ tends to refer more to the direction something is moving than to its actual target. So in this particular case, "下に落とす" wouldn't be right.
+
+We're not saying that we're dropping it to a particular target, like "テーブルの下" – the under of the table / under the table. We're just dropping it downwards, dropping it in a downward direction. We don't even know what's down there. She did try looking and she couldn't see much. So dropping it in the direction of down – "下へ落とす”.
+
+Now, "したへ落としては悪い".
+
+Now here, you see, we've just had て-form plus も; now we have て-form plus は.
+
+And we know that も and は are the opposite twins.
+
+While も is the additive, including particle, は is the subtractive, excluding particle.
+
+So, while -ても means "as much as", -ては means "as little as".
+
+### ては
+
+Now, we tend to use -ても in positive contexts – "If I do as much as this, will it be all right?"
+
+But we use -ては in negative, forbidding contexts – "don't even do as little as that".
+
+So we often say, "-てはだめ" – "do that is no good / do that is bad" / if done (action), no good. 
+
+In this case, it's very similar: "落としては悪い" – "even as little as dropping it would be bad". The point isn't really that dropping it is a small thing, or that eating the cake is a big thing. The point is that we can go as far as eating the cake, that's fine, but don't even think
+about dropping it: "落としては悪い" – doing that is right out of the question.
+
+Very often, this forbidding -ては is just contracted to -ちゃ.
+
+笑っちゃだめ！- Don’t laugh! / Even as little as a laugh is no good. (roughly)
+
+Now this pattern continues into other uses of -ては.
+
+### ては as a connector between two clauses
+
+For example, we can use -ては as a connector between two clauses and 
+it implies that the second clause is unwanted or negative.
+
+```
+"雨が降っては(０が)公園に行けない。"
+
+Topic:
+・雨が：rain (A)
+・降って：falls-and (B)
+・は：topic (negative comment expected)
+
+Comment:
+・(０が)：we (A)
+・公園に：park-to
+・行け：can-go
+・ない：not (B)
+
+て＋は uses Topic-Comment structure to link two clauses into a compound sentence with a negative implication for the second clause (the comment)
+```
+
+So we can say,
+
+"雨が降っては公園に行けない" – "It's raining and we can't go to the park".
+
+Now, as we know, -て can connect two sentences, and if we just said, 
+"雨が降って公園に行けない" we're saying – "It's raining and we can't go to the park".
+
+There's an implication that we can't go to the park because it's raining, but there's no suggestion of whether we're happy or unhappy with the result.
+
+"雨が降っては公園にいけない" is indicating that the result is unpleasant or unwanted.
+
+And you can see that this does have its root in the restrictive quality of は.
+
+For example, in English, we might say, "Just because it's raining, we can't go to the park" and this is exactly what は means, doesn't it?
+
+> @Mordraug:
+> 
+> Note: Bread is the direct object here (like in English).
+
+If we say "パンを食べた", we're saying "I ate bread", but if we say, "パンは食べた" that often implies I ate bread but I didn't eat something else. 
+
+> @Mordraug:
+>
+> Note: Speaking of the bread, (I) ate. (rough translation), bread is the topic of the convo I guess?
+
+Conversely, if we say, "パンを食べなかった", we're saying "I didn't eat bread"; if we say "パンは食べなかった", we're often implying I didn't eat bread, but I did eat something else.
+
+"雨が降っては公園に行けない" originally could imply something like, "Just because it's raining, we can't go to the park", but now (with ては) its implication is more, "Unfortunately, because it's raining, we can't go to the park".
+
++ "(０が)妹とけんかしては母にしかられた"
++ – "Because (I) quarrelled with my sister, I got scolded..."
+
+```
+"(０が)妹とケンカしては母にしかられた"
+
+Topic:
+・(０が)：I (A)
+・妹と：sister-with
+・ケンカして：quarreled-and (B1)
+・は：topic (neg result)
+
+Comment:
+・母に：mother-by
+・しから：scolded-
+・れた"：-got (B2)
+
+2 logical clauses joined into 1 sentence by neg-implication topic-comment structure
+```
+
+And again, the は in there indicates that this is a negative result. So it links two complete clauses with the indication that the second one follows as an unfortunate result from the first one. So this is a continuation of the negative implication of -ては.
+
+### ても / でも as a connector 
+
+-ても, on the other hand, when it links two sentences, doesn't indicate a negative result or a positive result. It indicates an unexpected or contrasting result to the first. So if we said,
+
+"雨が降っても公園に行く",
+
+We're saying, "Even though/As much as it is raining, we're going to the park".
+
+```
+"雨が降っても(０が)公園に行く。"
+
+Even though it is raining (as much as it is raining)
+Topic:
+・雨が：rain
+・降って：falls-and
+・も：topic (contrastive comment expected)
+
+Comment:
+・(０が)：we
+・公園に：park-to
+・行く：will-go
+
+2 logical clauses joined into 1 sentence by contranstive implication Topic-Comment Structure
+```
+
+And you can see that this is essentially the same function as "でも", 
+which gets translated as "but", quite correctly.
+
+```
+でも (but)
+lit: 'as much as (that) is (so)'
+is **the all-purpose 〜ても**
+The instant contrast marker
+```
+
+"でも" folds up whatever went before it into that "で", which is the て-form of "だ". So we're saying "that all happened" and the も then adds to it the "but" element, the "even though", "as much as" element. So we could also say,
+
+"雨が降るでも公園に行く", 
+
+which means almost exactly the same as "雨が降っても公園に行く".
+
+The difference structurally is that in "雨が降っても", the -ても only attaches to "降る", whereas in "雨が降るでも" the で is wrapping up the whole of the last sentence. In practice, that gives us pretty much the same meaning.
+
+So, let's just go back to that sentence in Alice and see how it's structured.
+
+```
+アリスは(０が)空っぽのびんでも下へ落としては悪いと思った
+
+・アリスは：Alice (topic)
+・(０が)：(A) overall topic marker and が-marked subject (A-car)
+
+Whole Box
+Sub-Topic 1
+・(０が)：it (A)
+・空っぽの：empty
+・びんで：jar-is (B)
+・も：even-though (topic)
+Sub-Topic 2
+・下へ：downward
+・落として：drop (B1)
+・は：topic (negative)
+・悪い：is-bad (comment)
+
+・と：bundles whole box into one quotation modifying B2
+・思った：thought (overall B-engine (B2))
+```
+
+It's a little more complex than it looks at first, but it's very easy to understand. And if we can understand it, it gives us the key to analyzing much more complex sentences, which could give us trouble in the future.
+
 The core of the sentence is at the beginning and the end.
+
 The whole sentence is just telling us what Alice thought.
-So the core is "(Arisu-wa) zero-ga omotta".
-The inside of the sentence consists of two topic-comment structures.
-The first topic is "even though it's an empty bottle" (topic) and the comment on that is
-itself another topic-comment structure: "as for dropping it, that would be bad".
-And then the whole of this double topic-comment structure is bundled up into that -to, which
-really means we can treat the whole thing as a kind of quasi-noun – just bundle up
-into that -to and attribute it to Alice as her thought.
-Now, of course, as we're actually reading or looking at Japanese we don't think of
-"as for" or "speaking of" every time we see a topic-comment statement, because "as for"
-in English is much weightier, much more cumbersome than the simple -wa and -mo in Japanese.
+
+So the core is "アリスは(zeroが)思った".
+
+The inside of the sentence consists of two Topic-Comment Structures.
+
+The first topic is "even though it's an empty bottle" (topic) - (zeroが)空っぽのびんでも 
+
+and the comment on that is itself another Topic-Comment Structure: 
+
+"as for dropping it, that would be bad" - 下へ落としてはわるい
+
+And then the whole of this double Topic-Comment Structure is bundled up into that -と, which really means we can treat the whole thing as a kind of quasi-noun – just bundle up into that -と and attribute it to Alice as her thought. (思った)
+
+Now, of course, as we're actually reading or looking at Japanese we don't think of "as for" or "speaking of" every time we see a Topic-Comment statement, because "as for" in English is much weightier, much more cumbersome than the simple は and も in Japanese.
+
 So what do we do?
-Once again, as always, we don't translate it into English
-except when we absolutely need to, to explain it or understand it.
-We take the Japanese as it is in itself, and that's how we learn Japanese
-as opposed to just learning about Japanese.
-If you have any questions or comments, please leave
-them in the Comments below and I will answer as usual.
-I'd like to thank my Gold Kokeshi patrons, who make these videos possible, and all my
-patrons and supporters on YouTube and everywhere.
-Kore kara mo yoroshiku onegai shimasu.
+
+Once again, as always, we don't translate it into English except when we absolutely need to, to explain it or understand it. 
+
+We take the Japanese as it is in itself, and that's how we learn Japanese, as opposed to just learning about Japanese.
+
+If you have any questions or comments, please leave them in the Comments below and I will answer as usual.
+
+I'd like to thank my Gold Kokeshi patrons, who make these videos possible, and all my patrons and supporters on YouTube and everywhere.
+
+これからもよろしくお願いします。
+
 Class dismissed.

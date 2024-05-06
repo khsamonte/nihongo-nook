@@ -33,6 +33,8 @@ And the definition is: "自動車などの窓".
 
 So, essentially, that means "the window of an automobile, etcetera", which in this case means any kind of a surface vehicle that has windows, so not a "自転車" but a "電車", etcetera: "the window of a vehicle".
 
+> @Mordraug:
+>
 > Note: Notice how the など here is used right after 自転車 (preceding even the の particle). など seems to be used directly after its noun / noun phrase like any other particle would (など is a particle too). Furthermore however, looking at some Yomichan sentences where it is used, it seems like it takes priority over the logical particles like の, が, を in that it is the first one to attach to/after its attached noun, with the logical particles following it only once it was attached. As seen above or in a sentence from Yomichan: 大学ではフランス語やドイツ語などを勉強した。
 
 And this "など" is a very typical use of the word. It gets used freely in formal and informal Japanese.
@@ -43,7 +45,11 @@ In informal Japanese, "など" also has another use, which overlaps with the oth
 
 Now, "denigrate" and "belittle" are not exactly the right words to use here, but I don't think there are quite the right words in English. It throws a negative light, which in the case of "など" is usually making light of or slightly rejecting whatever it is.
 
-So we might say, "タバコなど不要だ", which means "I've no use for cigarettes". Now, "タバコは不要だ" would mean the same thing essentially (notice that "など" knocks out other particles). - so Dolly confirms my observation from above, except that here it straight-up removes the は particle, likely because it is not a logical particle.
+So we might say, "タバコなど不要だ", which means "I've no use for cigarettes". Now, "タバコは不要だ" would mean the same thing essentially (notice that "など" knocks out other particles).
+
+> @Mordraug:
+> 
+> - so Dolly confirms my observation from above, except that here it straight-up removes the は particle, likely because it is not a logical particle.
 
 The only difference here is that "など" is throwing that slightly disparaging light on cigarettes. So the way we could read it is something like, in English, "I don't need stuff like cigarettes".
 
@@ -55,9 +61,11 @@ Both "なんか" and "なんて" can be used in this throwing-a-negative-light-o
 
 ### なんか
 
-So, "なんか" is really a contraction of "何か/なにか" (something), but it has quite a few colloquial uses.
+So, "なんか" is really a contraction of "何か・なにか" (something), but it has quite a few colloquial uses.
 
-And it’s the denigrating one we'll hear sometimes very strongly in cases where... well, let's say, in an anime, a younger sister is angry with her older sister. She may say, "お姉ちゃんなんか大嫌い!" (I really hate stuff like my big sister).
+And it’s the denigrating one we'll hear sometimes very strongly in cases where... well, let's say, in an anime, a younger sister is angry with her older sister. She may say,
+
+"お姉ちゃんなんか大嫌い!" (I really hate stuff like my big sister).
 
 Now, of course, that's not literally what she means. She doesn't mean she hates "stuff like" her big sister, but by using this expression --"stuff like you", "stuff like my big sister" -- you're throwing a very disparaging light on what it is you're talking about.
 
@@ -175,5 +183,7 @@ It's throwing a lot more doubt and questioning into the whole thing.
 
 So, we've covered the main usages of these three words or expressions here. It's not completely exhaustive, but I think it gives you the basic keys to how they work, what they mean, how they're used.
 
+> @Mordraug:
+>
 > Note: Damn, quite a few sub-titles in this one, heh (ノ*°▽°*) Wanted to make it a bit easier to search, if anything. Also, this is quite interesting:
 
