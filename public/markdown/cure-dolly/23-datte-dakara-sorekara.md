@@ -10,6 +10,7 @@
 #### だって as but
 
 When it's used on its own – and it means "but" when it's used on its own, not as the ending of a sentence as in the example we just looked at – it has a slightly childish and usually somewhat negative or argumentative feeling.
+
 ---
 
 ### Lecture
@@ -20,15 +21,16 @@ Today, we're going to talk about "だって" and some of the issues that raises 
 
 One of my commenters spoke about being confused by the "word" "だって", and I'm not surprised, because if you look at the Japanese-English dictionaries, they tell you that "だって" means "because" and "but" and "even" and also "somebody said", which is quite a confusing pile of meanings for one so-called word.
 
-And I say "so-called" word because "だって" isn't really even a word. And the thing that never seems to get explained in dictionaries or anywhere else is what it really is, what it actually means, and therefore why it carries the range of meanings that it does.
+**And I say "so-called" word because "だって" isn't really even a word.** And the thing that never seems to get explained in dictionaries or anywhere else is what it really is, what it actually means, and therefore why it carries the range of meanings that it does.
 
 So, let's start off with the most basic meaning, which is the last one on the list, "somebody said".
 
+---
 ### だって as “somebody said”
 
-"だって" is actually simply made up of the copula "だ" plus って, which is not the て-form of anything, it's the って which is a contraction, as we've talked about before (Lesson 18), of the quotation particle -と plus "いう".
----
-So って means "-という", in other words, "says" a particular thing. The -と bundles up something into a quotation and the "いう" says that somebody says it. So it's really as simple as that.
+**"だって" is actually simply made up of the copula "だ" plus って**, which is not the て-form of anything, it's the って which is a contraction, as we've talked about before (Lesson 18), of the quotation particle -と plus "いう".
+
+**So って means "-という", in other words, "says" a particular thing.** The **-と bundles up something into a quotation and the "いう" says that somebody says it.** So it's really as simple as that.
 
 "(zeroが)明日は晴れだって" is simply "(zeroが)明日が晴れ..."
 
@@ -48,7 +50,7 @@ So って means "-という", in other words, "says" a particular thing. The -�
 
 So, "明日は晴れだ" simply means "Tomorrow will be sunny". And when we add って, we're saying, "It's said that tomorrow will be fine".
 
-We might be saying that someone in particular says it or we may just be saying "it's said" in general – "I hear tomorrow will be fine", we might say in English.
+**We might be saying that someone in particular says it or we may just be saying "it's said" in general** – "I hear tomorrow will be fine", we might say in English.
 
 "They say tomorrow will be fine."
 
@@ -56,9 +58,10 @@ So that's very simple, and that's what "だって" is: it's "だ" plus って, t
 
 How does it come to mean "but"?
 
+---
 ### だって as “but”
 
-Well, to begin with, let's understand that when it's used on its own – and it means "but" when it's used on its own, not as the ending of a sentence as in the example we just looked at – it has a slightly childish and usually somewhat negative or argumentative feeling.
+Well, to begin with, let's understand that **when it's used on its own** – and **it means "but" when it's used on its own, not as the ending of a sentence** as in the example we just looked at – it has a slightly childish and usually somewhat negative or argumentative feeling.
 
 So if somebody says, "さくらがきれいだね" – "Sakura's pretty, isn't it?"
 
@@ -74,9 +77,9 @@ But what you're actually doing here is taking the statement that the last person
 
 Very often, when we're agreeing with something someone says, we might say "ですね". And, literally, that just means "is, isn't it?"
 
-And how can it mean that, because really "だ” or "です" on its own doesn't mean anything. It has to join two other things together, and neither of them are stated here.
+And how can it mean that, because really "だ” or "です" **on its own doesn't mean anything**. It has to join two other things together, and neither of them are stated here.
 
-But what "です" is by implication attached to is the thing the person just said. And what it's joining it to is, by implication, something like "本当" or "そう" – "そうですね".
+**But what "です" is by implication attached to is the thing the person just said.** And what it's joining it to is, by implication, something like "本当" or "そう" – "そうですね".
 
 ```
 ですね = is, isn't it?
@@ -87,6 +90,7 @@ what two things does this copula couple?
 
 So we're actually saying, "That's true, isn't it?" or "That's the case, isn't it?" or "That's how it is, isn't it?"
 
+---
 ### それから & だから / ですから
 
 We also do this when we say "だから" or "ですから", which really means "because".
@@ -111,11 +115,12 @@ We're saying, "because that is the case", and if you think of it, this is more l
 
 "Because of that" really means literally in English "because that is the case" but we just cut it down to "because of that", 👇 and in Japanese we just cut it down to "ですから".
 
+---
 ### Back to だって as “but”
 
 Now, when we understand this, we can understand "だって" in the sense of meaning "but".
 
-"だ" refers back to whatever it was the last person said, and って simply states that they said it.
+**"だ" refers back to whatever it was the last person said, and って simply states that they said it.**
 
 So, if someone says, "さくらがきれいだね" – Sakura's pretty, isn't it, isn't she?"
 
@@ -127,6 +132,7 @@ And this works in just the same way as English "but". If you think about it, "bu
 
 So "さくらがきれいだね" – "Sakura is pretty" – "だって..."– "You said that and I'm not disputing that that is the case, BUT – she's not very smart".
 
+---
 ### だって as “because”
 
 So, how does it come to mean "because", which in some ways seems almost opposed to "but", almost an opposite kind of meaning?
@@ -147,6 +153,7 @@ So you see, it doesn't literally mean either "but" or "because". What it means i
 
 In English, it could be translated as either "but" or "because" depending on the circumstances.
 
+---
 ### だって as “even”
 
 So, how can it come to have the meaning of "even"? Well, let's understand that this is a slightly different use.
