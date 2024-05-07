@@ -1,3 +1,34 @@
+### Summary
+
++ ・で is the て-form of だ
++ ・**も** can mean "as much as"
+
+#### だ vs ても
+
+* "空っぽのびん**です**" - (It) **is** an empty jar
+* "空っぽのびん**でも**" - **Even though** (it) is an empty jar
+
+#### ても asking for permission
+
+* "ケーキを食べ**てもいい**" - **May** I eat the cake?
+
+#### ては
+
++ "パン**を**食べなかった" - I didn't eat bread
++ "パン**は**食べなかった" - I didn't eat bread (**but I did eat something else**)
+
+#### ても・ては as conjunctions
+
++ ・ても as a conjunction indicates an unexpected contrasting result
++ ・ては as a conjunction indicates a negative result
+
+* "雨が降っ**ても**公園に行く" - **Even though** it is raining, we're going to the park.
+* "雨が降っ**ては**公園に行けない" - It's raining, **so** we can't go to the park.
+
+---
+
+### Lesson
+
 こんにちは。
 
 Today, we're going to go back and cover that little bit of Alice that we skipped last week, and that's going to give us the opportunity to look at the て-form + は and the て-form + も and some other things too.
@@ -16,9 +47,7 @@ which I guess is the biggest empty space in this world.
 
 "空" – "empty" – is the "から" in "空手", which is the art of fighting with empty hand, without any weapon.
 
-"空っぽ" is a kind of strengthening of "empty", meaning there was nothing in it, it was completely empty.
-
-And "空っぽ" works as a noun, and generally speaking, if you don't know what kind of word a word is in Japanese, it's most likely to be a noun.
+"空っぽ" is a kind of strengthening of "empty", meaning there was nothing in it, it was completely empty. And "空っぽ" works as a noun, and generally speaking, if you don't know what kind of word a word is in Japanese, it's most likely to be a noun.
 
 ```
 Non-Japanese Origin
@@ -54,13 +83,14 @@ But fundamentally they're nouns. So it's always a good guess when you don't know
 
 Here again, we're going to see some other uses of the て-form.
 
+---
 ### でも / ても
 
 First of all, 
 
 "アリスは空っぽのびんでも".
 
-Now, で here is the て-form of "だ", and も, as we know, is the additive, inclusive sister of は: the additive, inclusive non-logical topic-marking particle.
+Now, **で here is the て-form of "だ"**, and も, as we know, is the additive, inclusive sister of は: the additive, inclusive non-logical topic-marking particle.
 
 So, "空っぽのびんでも".
 
@@ -96,7 +126,7 @@ Literally, "If I go as far as to eat the cake, will that be all right?"
 + ・"落とす" means to "drop". It's another one of our self-move/other-move pairs.
 + ・"落ちる" means to "fall" – that's self-move: a thing falls, by itself.
 + ・"落とす", which ends in -す, according to the first law of self-move/other-move verbs, so it means "drop": we don't drop ourselves, we drop something else.
-+ ・"下へ" : now, -へ, as we know, is the other targeting particle. It's very similar to に, but the difference is that -へ tends to refer more to the direction something is moving than to its actual target. So in this particular case, "下に落とす" wouldn't be right.
++ ・"下へ" : now, -へ, as we know, is the other targeting particle. It's very similar to に, **but the difference is that -へ tends to refer more to the direction something is moving than to its actual target.** So in this particular case, "下に落とす" wouldn't be right.
 
 We're not saying that we're dropping it to a particular target, like "テーブルの下" – the under of the table / under the table. We're just dropping it downwards, dropping it in a downward direction. We don't even know what's down there. She did try looking and she couldn't see much. So dropping it in the direction of down – "下へ落とす”.
 
@@ -110,27 +140,29 @@ While も is the additive, including particle, は is the subtractive, excluding
 
 So, while -ても means "as much as", -ては means "as little as".
 
+---
 ### ては
 
-Now, we tend to use -ても in positive contexts – "If I do as much as this, will it be all right?"
+Now, **we tend to use -ても in positive contexts** – "If I do as much as this, will it be all right?"
 
-But we use -ては in negative, forbidding contexts – "don't even do as little as that".
+**But we use -ては in negative, forbidding contexts** – "don't even do as little as that".
 
 So we often say, "-てはだめ" – "do that is no good / do that is bad" / if done (action), no good. 
 
 In this case, it's very similar: "落としては悪い" – "even as little as dropping it would be bad". The point isn't really that dropping it is a small thing, or that eating the cake is a big thing. The point is that we can go as far as eating the cake, that's fine, but don't even think
 about dropping it: "落としては悪い" – doing that is right out of the question.
 
-Very often, this forbidding -ては is just contracted to -ちゃ.
+**Very often, this forbidding -ては is just contracted to -ちゃ.**
 
 笑っちゃだめ！- Don’t laugh! / Even as little as a laugh is no good. (roughly)
 
 Now this pattern continues into other uses of -ては.
 
+---
 ### ては as a connector between two clauses
 
 For example, we can use -ては as a connector between two clauses and 
-it implies that the second clause is unwanted or negative.
+**it implies that the second clause is unwanted or negative**.
 
 ```
 "雨が降っては(０が)公園に行けない。"
@@ -156,9 +188,9 @@ So we can say,
 Now, as we know, -て can connect two sentences, and if we just said, 
 "雨が降って公園に行けない" we're saying – "It's raining and we can't go to the park".
 
-There's an implication that we can't go to the park because it's raining, but there's no suggestion of whether we're happy or unhappy with the result.
+**There's an implication that we can't go to the park because it's raining, but there's no suggestion of whether we're happy or unhappy with the result.**
 
-"雨が降っては公園にいけない" is indicating that the result is unpleasant or unwanted.
+"雨が降っては公園にいけない" is **indicating that the result is unpleasant or unwanted**.
 
 And you can see that this does have its root in the restrictive quality of は.
 
@@ -200,9 +232,10 @@ Comment:
 
 And again, the は in there indicates that this is a negative result. So it links two complete clauses with the indication that the second one follows as an unfortunate result from the first one. So this is a continuation of the negative implication of -ては.
 
+---
 ### ても / でも as a connector 
 
--ても, on the other hand, when it links two sentences, doesn't indicate a negative result or a positive result. It indicates an unexpected or contrasting result to the first. So if we said,
+-ても, on the other hand, **when it links two sentences, doesn't indicate a negative result or a positive result. It indicates an unexpected or contrasting result to the first**. So if we said,
 
 "雨が降っても公園に行く",
 
@@ -300,3 +333,89 @@ I'd like to thank my Gold Kokeshi patrons, who make these videos possible, and a
 これからもよろしくお願いします。
 
 Class dismissed.
+
+---
+
+### Sample Sentences
+
+#### ても
+
+```
+忘れろって言われても...
+
+・(０が)：(I)
+・忘れろって：to forget (imperative)
+・言われて：got-told
+・も：even-though (topic)
+Lit: (I) forget got-told even-though
+Trans: Even though I was told to forget.
+---
+
+慣れても、何かがすり減るもんでしょう。
+・慣れて：get accustomed
+・も：even-though (topic)
+・何かが：something-will  
+・すり減る：wear down
+・もん：-
+・でしょう：it seems
+Lit: accustomed even-though, something-will wear-down it (you) seems
+Trans: Even though you're accustomed to it, something will wear you down it seems.
+---
+
+どこに行っても、「あの桜島麻衣」って言われて注目されて。
+・どこに：where-to
+・行って：go-and
+・も：even-though (topic)
+・「あの桜島麻衣」って："um, Sakurajima Mai"
+・言われて：get told-and
+・注目されて：get noticed
+Lit: where-to go-and even-though, "um, Sakurajima Mai" get-told-and get-noticed.
+Trans: Even though I go anywhere, I get told, "Um, Sakurajima Mai" and get noticed.
+---
+
+勧められてもいないから安心しろ。
+
+Lit: get-recomnmended even-if, not-there because, be-relieved.
+Trans: Even if I am getting recommended, because I am not, be relieved.
+---
+
+テレビで目立ちまくれば、いくら麻衣さんが空気を演じても、周りが放っておかなくなるでしょ？
+
+・テレビで：TV-in
+・目立ちまくれば：be-conspicious-if
+・いくら：how
+・麻衣さんが：Mai-san
+・空気を：atmosphere
+・演じて：act/play-and
+・も：even-though (topic)
+・周りが：people-surrounding
+・放っておかなくなる：leave-alone-not-anymore
+・でしょ：it seems
+
+Lit: TV-in be conspicious-if, Mai-san act-in the atmosphere even-though, people-surrounding leave-alone-not-anymore it seems.
+Trans: If Mai-san is conspicious on TV, even though she plays along the atmosphere, people surrounding her will not leave her alone anymore, won't they?
+---
+
+(０が)忘れても絶対思い出せ。
+・(０が)：I
+・忘れて：forget
+・も：even-if (topic)
+・絶対：absolutely
+・思い出せ：will-remember
+
+Lit: (I) forget even-if, absolutely will-remember.
+Trans: Even if I forget, I will absolutely remember.
+```
+
+#### ては
+
+```
+麻衣さんの触れてはならない部分に。
+
+・麻衣さんの：Mai-san's
+・触れてはならない：must-not-be-touched
+・部分に：part-of
+
+Lit: Mai-san's must-not-be-touched part-of.
+Trans: (That) part of Mai-san must not be touched.
+```
