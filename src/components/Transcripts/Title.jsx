@@ -85,7 +85,8 @@ const StructureContainer = styled.div`
   h3,
   h4,
   a {
-    color: rgb(239, 132, 75);
+    color: #ffaf59;
+    /* color: rgb(239, 132, 75); */
   }
 
   p,
@@ -106,6 +107,13 @@ const StructureContainer = styled.div`
   }
   blockquote {
     color: violet;
+  }
+
+  b,
+  strong {
+    color: #ffaf59;
+    font-weight: 400;
+    text-decoration: underline;
   }
 `;
 
