@@ -195,3 +195,22 @@ And I'd like to thank you for attending this lesson.
 Kore kara mo yoroshiku onegai shimasu.
 
 Class dismissed.
+
+---
+
+### Sample Sentences
+
+#### だって
+
+```
+咲太：「一睡もできませんでした」
+麻衣：「私のせいだって(０が)言いたいの？」
+
+・私の：my
+・せい：due to (fault)
+・だって：because
+・(０が)：you
+・言いたいの：do- -want to say?
+Lit: My (fault)- -because you do- -want to say?
+Trans: Do you want to say it's my fault?
+```

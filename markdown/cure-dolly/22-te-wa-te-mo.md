@@ -5,6 +5,8 @@
 
 #### だ vs ても
 
+Examples:
+
 * "空っぽのびん**です**" - (It) **is** an empty jar
 * "空っぽのびん**でも**" - **Even though** (it) is an empty jar
 
@@ -21,6 +23,8 @@
 
 + ・ても as a conjunction indicates an unexpected contrasting result
 + ・ては as a conjunction indicates a negative result
+
+Examples:
 
 * "雨が降っ**ても**公園に行く" - **Even though** it is raining, we're going to the park.
 * "雨が降っ**ては**公園に行けない" - It's raining, **so** we can't go to the park.

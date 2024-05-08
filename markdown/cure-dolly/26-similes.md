@@ -1,16 +1,50 @@
+### Summary
+
+#### そう・らしい
+
++ ・**そうだ** - we use this to conjecture what the quality of something is
++ ・**らしい** - can compare things to other things, to things that we know they aren't. We are not necessarily conjecturing (that the animal is a rabbit); we're just making that comparison.
+
+Examples:
+
+* "おいし**そうだ**" - "It looks delicious /I haven't tried it, but I think if I did, I would find it delicious."
+* "ウサギ**らしい**" - "rabbit-like" (even though we know it isn't a rabbit)
+
+#### まるで
+
+"まる/丸" means a "circle/round", so when we say "**まるで**", we mean, "**roundly/wholly/completely**". And this is a hyperbole.
+
+#### よう
+
+With this, we can make an actual metaphor or simile
+
++ ・**ようだ** - Look like; look as if; be like; appear; seem (expresses the likelihood of something or the likeness of something to something.)
++ ・**ような** - like; similar to
++ ・**ように** - like; similar to
+
+We can simply pop it onto an entire sentence, as we can the other two, with the meaning of "(that sentence) is what appears to be the case". But we can also put it onto an entire, complete sentence with a different meaning. We can do it in order to turn the whole sentence into our simile.
+
+Examples:
+
+* "まるで幽霊を見たかの**ような**顔をして。" - Did (had) a face exactly as if (she) saw a ghost.
+
+---
+
+### CureDolly's Lesson
+
 こんにちは。
 
-Today we're going to talk about "ようだ" and give a little mention to her cousin "みたい".
+Today, we're going to talk about "ようだ" and give a little mention to her cousin "みたい".
 
 We're going to discover that "ようだ" constitutes the other end of a sliding scale with the expressions of conjecture and likeness that we discussed in the last two lessons.
 
 At one end we have "そうだ", at the other end we have "ようだ", and in the middle we have "らしい"
 
-All of these expressions can be placed at the end of a completed logical sentence in order to express that that sentence is either what we've heard or what we conjecture from the information we have or from what we can see.
+All of these expressions **can be placed at the end of a completed logical sentence in order to express that that sentence is either what we've heard or what we conjecture** from the information we have or from what we can see.
 
 But when we attach them to individual words, then we have this sliding scale of meaning.
 
-With "そうだ", as we know, we use this to conjecture what the quality of something is.
+With **"そうだ", as we know, we use this to conjecture what the quality of something is**.
 
 We can say "おいしそうだ" - "It looks delicious /I haven't tried it, but I think if I did, I would find it delicious."
 
@@ -18,7 +52,7 @@ With "らしい" we have a much greater degree of subjectivity.
 
 "らしい" overlaps with "そうだ" in many respects, but it can also do things that "そうだ" cannot do.
 
-It can compare things to other things, to things that we know they aren't.
+**It can compare things to other things, to things that we know they aren't.**
 
 We can say that an animal is "ウサギらしい" - "rabbit-like" - even though we know it isn't a rabbit.
 
