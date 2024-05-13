@@ -203,3 +203,16 @@ Big brother, why
 
 Translation Nuances:
 * The phrase はっきりしている suggests a dynamic quality to the consciousness, emphasizing that it is actively maintaining clarity, rather than being passively clear. This aligns more closely with how verbs operate in Japanese to describe states and conditions, often portraying them as active or maintained states rather than static descriptions.
+
+---
+
+16. まさか、こんなに早く麻衣さんと、新婚プレイができるとは思いませんでした
+
+・まさか：never dreamed
+・こんなに：this way
+・早く：early
+・麻衣さんと：Mai-san with-
+・新婚プレイが：newlyweds play
+・できるとは：to be able to
+・思いませんでした：didn't think
+
